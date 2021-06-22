@@ -47,3 +47,4 @@
 - Yan Cui - [Event Sourcing with Lambda and DynamoDB](https://theburningmonk.com/2019/08/a-simple-event-sourcing-example-with-snapshots-using-lambda-and-dynamodb/)
 - Nord Fjord - [SQL Event Store](https://nordfjord.io/blog/sql-event-store-maybe-not)
 - Dennis Doomen - [The Ugly of Event Sourcing–Real-world Production Issues](https://www.continuousimprover.com/2017/11/the-ugly-of-event-sourcingreal-world.html)
+- Dennis Doomen - [An Event Sourcing Retrospective - The Good, The Bad and the Ugly](https://www.youtube.com/watch?v=goknSHnTD4M&ab_channel=MicroCPH)
