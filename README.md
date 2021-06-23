@@ -49,3 +49,4 @@
 - Dennis Doomen - [The Ugly of Event Sourcing–Real-world Production Issues](https://www.continuousimprover.com/2017/11/the-ugly-of-event-sourcingreal-world.html)
 - Dennis Doomen - [An Event Sourcing Retrospective - The Good, The Bad and the Ugly](https://www.youtube.com/watch?v=goknSHnTD4M&ab_channel=MicroCPH)
 - David Schmitz - [Event Sourcing - You are doing it wrong](https://www.youtube.com/watch?v=GzrZworHpIk)
+- Dino Esposito - [Modern Software Architecture: Domain Models, CQRS, and Event Sourcing](https://app.pluralsight.com/library/courses/modern-software-architecture-domain-models-cqrs-event-sourcing/table-of-contents)
