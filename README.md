@@ -1,4 +1,4 @@
-# 📖 Library
+# 📚 Academy
 
 ## TODO
 - Categorize/order
