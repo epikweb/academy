@@ -67,3 +67,4 @@
 - Kailash Nadh - [Scaling with common sense](https://zerodha.tech/blog/scaling-with-common-sense/)
 - Scott Bellware - [Evented Autonomous Services](https://www.youtube.com/watch?v=qgKlu5gFsJM)
 - Martin Kleppman - [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf)
+- Udi Dahan - [The Fallacy of Reuse](https://udidahan.com/2009/06/07/the-fallacy-of-reuse/)
