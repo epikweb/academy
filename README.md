@@ -4,6 +4,9 @@
 - Categorize/order
 
 ## List
+- Eric Elliott - [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
+- Eric Elliott - [Encapsulation in JavaScript](https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4)
+- Eric Elliott - [Composing Software](https://www.amazon.ca/Composing-Software-Exploration-Programming-Composition/dp/1661212565/ref=sr_1_1?dchild=1&keywords=composing+software&qid=1624062843&s=books&sr=1-1)
 - Vladimir Khorikov - [When to Mock](https://enterprisecraftsmanship.com/posts/when-to-mock/)
 - Vladimir Khorikov - [Immutable Architecture](https://enterprisecraftsmanship.com/posts/immutable-architecture/)
 - Vladimir Khorikov - [DDD in Legacy Projects](https://www.pluralsight.com/courses/domain-driven-design-legacy-projects)
@@ -18,9 +21,6 @@
 - Jimmy Bogard - [Vertical Slice Architecture Talk](https://www.youtube.com/watch?v=5kOzZz2vj2o)
 - Jimmy Bogard - [Vertical Slice Architecture Blog](https://jimmybogard.com/vertical-slice-architecture/)
 - Derek Comartin - [CodeOpinion Videos](https://www.youtube.com/watch?v=bxGkavGaEiM)
-- Eric Elliott - [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
-- Eric Elliott - [Encapsulation in JavaScript](https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4)
-- Eric Elliott - [Composing Software](https://www.amazon.ca/Composing-Software-Exploration-Programming-Composition/dp/1661212565/ref=sr_1_1?dchild=1&keywords=composing+software&qid=1624062843&s=books&sr=1-1)
 - Martin Fowler - [Monolith First](https://martinfowler.com/bliki/MonolithFirst.html)
 - Martin Fowler - [CQRS](https://martinfowler.com/bliki/CQRS.html)
 - Martin Fowler - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
