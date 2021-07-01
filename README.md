@@ -1,5 +1,8 @@
 # 📚 Academy
 
+📚 A curated list of books, talks and blog posts to learn DDD, CQRS, ES, Infrastructure, DevOps, Software Architecture and JavaScript
+
+
 ## TODO
 - Categorize/order
 
