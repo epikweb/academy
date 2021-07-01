@@ -6,6 +6,7 @@
 - Vaughn Vernon - [oDDs and enDDs](https://www.youtube.com/watch?v=4UZZjyQDgT8)
 - Vaughn Vernon - [Rethinking Legacy and Monolithic Systems](https://www.youtube.com/watch?v=OSARwCnSRCI)
 - Vaughn Vernon - [Implementing Domain Driven Design](https://www.amazon.ca/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8/ref=sr_1_1?dchild=1&keywords=vaughn+vernon&qid=1624141592&sr=8-1)
+- Derek Comartin - [CodeOpinion](https://www.youtube.com/watch?v=bxGkavGaEiM)
 - Jimmy Bogard - [Vertical Slice Architecture Talk](https://www.youtube.com/watch?v=5kOzZz2vj2o)
 - Jimmy Bogard - [Vertical Slice Architecture Blog](https://jimmybogard.com/vertical-slice-architecture/)
 - Vladimir Khorikov - [When to Mock](https://enterprisecraftsmanship.com/posts/when-to-mock/)
