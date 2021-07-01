@@ -1,4 +1,4 @@
-# 💖 Resources
+# 📖 Library
 A curated list of DDD/CQRS/ES/Software Architecture talks & books to learn from:
 - Vladimir Khorikov - [When to Mock](https://enterprisecraftsmanship.com/posts/when-to-mock/)
 - Vladimir Khorikov - [Immutable Architecture](https://enterprisecraftsmanship.com/posts/immutable-architecture/)
