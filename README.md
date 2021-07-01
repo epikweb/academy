@@ -64,3 +64,4 @@
 - Dino Esposito - [Modern Software Architecture: Domain Models, CQRS, and Event Sourcing](https://app.pluralsight.com/library/courses/modern-software-architecture-domain-models-cqrs-event-sourcing/table-of-contents)
 - Alex Lawrence - [Implementing DDD CQRS and Event Sourcing](https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing)
 - Alexey Zimarev - [DDD, Event Sourcing and Actors](https://www.youtube.com/watch?v=58_Ehl3oETY&ab_channel=KanDDDinsky)
+- Kailash Nadh - [Scaling with common sense](https://zerodha.tech/blog/scaling-with-common-sense/)
