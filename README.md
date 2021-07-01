@@ -66,3 +66,4 @@
 - Alexey Zimarev - [DDD, Event Sourcing and Actors](https://www.youtube.com/watch?v=58_Ehl3oETY&ab_channel=KanDDDinsky)
 - Kailash Nadh - [Scaling with common sense](https://zerodha.tech/blog/scaling-with-common-sense/)
 - Scott Bellware - [Evented Autonomous Services](https://www.youtube.com/watch?v=qgKlu5gFsJM)
+- Martin Kleppman - [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf)
