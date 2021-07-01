@@ -14,6 +14,7 @@
 - Vaughn Vernon - [Rethinking Legacy and Monolithic Systems](https://www.youtube.com/watch?v=OSARwCnSRCI)
 - Vaughn Vernon - [Implementing Domain Driven Design](https://www.amazon.ca/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8/ref=sr_1_1?dchild=1&keywords=vaughn+vernon&qid=1624141592&sr=8-1)
 - Martin Fowler - [Monolith First](https://martinfowler.com/bliki/MonolithFirst.html)
+- Martin Fowler - [Microservice Premium](https://martinfowler.com/bliki/MicroservicePremium.html)
 - Martin Fowler - [CQRS](https://martinfowler.com/bliki/CQRS.html)
 - Martin Fowler - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
 - Martin Fowler - [Anemic Domain Model](https://martinfowler.com/bliki/AnemicDomainModel.html)
