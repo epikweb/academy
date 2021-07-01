@@ -1,4 +1,5 @@
 # 💖 Resources
+A curated list of DDD/CQRS/ES talks & books to learn:
 - Vladimir Khorikov - [When to Mock](https://enterprisecraftsmanship.com/posts/when-to-mock/)
 - Vladimir Khorikov - [Immutable Architecture](https://enterprisecraftsmanship.com/posts/immutable-architecture/)
 - Vladimir Khorikov - [DDD in Legacy Projects](https://www.pluralsight.com/courses/domain-driven-design-legacy-projects)
