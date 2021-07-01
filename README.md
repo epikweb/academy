@@ -43,6 +43,7 @@
 - Matt Ho - [Serverless Event Sourcing with Go](https://www.youtube.com/watch?v=B-reKkB8L5Q)
 - Pat Helland - [Life beyond Distributed Transactions](http://cs.brown.edu/courses/cs227/archives/2012/papers/weaker/cidr07p15.pdf)
 - Kamil Grzybek - [Modular Monolith with DDD](https://github.com/kgrzybek/modular-monolith-with-ddd)
+- Kamil Grzybek - [Modular Monolith Integration Styles](http://www.kamilgrzybek.com/design/modular-monolith-integration-styles/)
 - Kamil Grzybek - [The Outbox Pattern](http://www.kamilgrzybek.com/design/the-outbox-pattern/)
 - Gary Bernhardt - [Functional Core, Imperative Shell](https://www.youtube.com/watch?v=yTkzNHF6rMs)
 - Allard Buijze - [Event-Driven Microservices](https://www.youtube.com/watch?v=jrbWIS7BH70)
