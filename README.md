@@ -1,6 +1,6 @@
 # 📚 Academy
 
-📚 A curated list of books, talks and blog posts to learn DDD, CQRS, ES, Infrastructure, DevOps, Software Architecture and JavaScript
+📚 A curated list of books, talks and blog posts to learn DDD, CQRS, ES, Infrastructure, DevOps, Data Science, Software Architecture and JavaScript
 
 
 ## TODO
@@ -80,3 +80,5 @@
 - Udi Dahan - [The Fallacy of Reuse](https://udidahan.com/2009/06/07/the-fallacy-of-reuse/)
 - Enterprise Integration Patterns - [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/)
 - David Fowler - [Cloud Data Management](https://dataschool.com/data-governance/)
+- DataBricks - [Lambda Architecture](https://databricks.com/glossary/lambda-architecture)
+- Uber - [Kappa/Lambda Architecture](https://eng.uber.com/kappa-architecture-data-stream-processing/)
