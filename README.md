@@ -85,4 +85,4 @@
 - Uber - [DBEvents Ingestion Framework](https://eng.uber.com/dbevents-ingestion-framework/)
 - Aljoscha Krettek - [Stream Processing with Flink - Session Windowing](https://www.ververica.com/blog/session-windowing-in-flink)
 - Spark by Examples - [Spark by Examples](https://sparkbyexamples.com/)
-- Lambda/Kappa+ Architecture - [DevelopPaper](https://developpaper.com/how-does-big-data-architecture-integrate-streaming-and-batching/)
+- DevelopPaper - [Lambda/Kappa+ Architecture ](https://developpaper.com/how-does-big-data-architecture-integrate-streaming-and-batching/)
