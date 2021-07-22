@@ -82,3 +82,4 @@
 - David Fowler - [Cloud Data Management](https://dataschool.com/data-governance/)
 - DataBricks - [Lambda Architecture](https://databricks.com/glossary/lambda-architecture)
 - Uber - [Kappa/Lambda Architecture](https://eng.uber.com/kappa-architecture-data-stream-processing/)
+- Uber - [DBEvents Ingestion Framework](https://eng.uber.com/dbevents-ingestion-framework/)
