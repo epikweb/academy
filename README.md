@@ -84,3 +84,4 @@
 - Uber - [Kappa/Lambda Architecture](https://eng.uber.com/kappa-architecture-data-stream-processing/)
 - Uber - [DBEvents Ingestion Framework](https://eng.uber.com/dbevents-ingestion-framework/)
 - Aljoscha Krettek - [Stream Processing with Flink - Session Windowing](https://www.ververica.com/blog/session-windowing-in-flink)
+- Spark by Examples - [Spark by Examples](https://sparkbyexamples.com/)
