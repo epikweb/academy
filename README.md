@@ -87,3 +87,5 @@
 - Spark by Examples - [Spark by Examples](https://sparkbyexamples.com/)
 - DevelopPaper - [Lambda/Kappa+ Architecture ](https://developpaper.com/how-does-big-data-architecture-integrate-streaming-and-batching/)
 - Roshan Naik - [Moving from Lambda and Kappa Architectures to Kappa+ at Uber](https://www.youtube.com/watch?v=ExU7fJFw4Bg)
+- Google [The Dataflow Model - Out of Order Data Processing](https://research.google/pubs/pub43864/)
+- Rockset [Aggregator Leaf Tailer Architecture](https://rockset.com/blog/aggregator-leaf-tailer-an-architecture-for-live-analytics-on-event-streams/)
