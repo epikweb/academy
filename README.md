@@ -89,3 +89,5 @@
 - Roshan Naik - [Moving from Lambda and Kappa Architectures to Kappa+ at Uber](https://www.youtube.com/watch?v=ExU7fJFw4Bg)
 - Google - [The Dataflow Model - Out of Order Data Processing](https://research.google/pubs/pub43864/)
 - Rockset - [Aggregator Leaf Tailer Architecture](https://rockset.com/blog/aggregator-leaf-tailer-an-architecture-for-live-analytics-on-event-streams/)
+- InstaCart - [RDS Postgres Blue Green Deployments](https://tech.instacart.com/creating-a-logical-replica-from-a-snapshot-in-rds-postgres-886d9d2c7343)
+- InstaCart - [RDS Postgres Sharding](https://tech.instacart.com/scaling-at-instacart-distributing-data-across-multiple-postgres-databases-with-rails-13b1e4eba202)
