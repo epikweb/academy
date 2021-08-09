@@ -23,6 +23,8 @@
 - Martin Fowler - [Anemic Domain Model](https://martinfowler.com/bliki/AnemicDomainModel.html)
 - Martin Fowler - [Transaction Script](https://martinfowler.com/eaaCatalog/transactionScript.html)
 - Martin Fowler - [Patterns of Enterprise Application Architecture](https://www.amazon.ca/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?crid=2Z4PNNZS8S5G2&dchild=1&keywords=patterns+of+enterprise+application+architecture&qid=1624062774&s=books&sprefix=patterns+of+enter%2Cstripbooks%2C153&sr=1-1)
+- Martin Fowler - [DDD Aggregate](https://martinfowler.com/bliki/DDD_Aggregate.html)
+- Martin Fowler - [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html)
 - Khalil Stemmler - [DDD Forum](https://github.com/stemmlerjs/ddd-forum)
 - Khalil Stemmler - [Solid Book](https://solidbook.io/)
 - Jimmy Bogard - [Vertical Slice Architecture Talk](https://www.youtube.com/watch?v=5kOzZz2vj2o)
@@ -91,3 +93,4 @@
 - Rockset - [Aggregator Leaf Tailer Architecture](https://rockset.com/blog/aggregator-leaf-tailer-an-architecture-for-live-analytics-on-event-streams/)
 - InstaCart - [RDS Postgres Blue Green Deployments](https://tech.instacart.com/creating-a-logical-replica-from-a-snapshot-in-rds-postgres-886d9d2c7343)
 - InstaCart - [RDS Postgres Sharding](https://tech.instacart.com/scaling-at-instacart-distributing-data-across-multiple-postgres-databases-with-rails-13b1e4eba202)
+- Mark Seeman - [Service Locator is an Anti-Pattern](https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
