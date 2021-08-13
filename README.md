@@ -7,9 +7,12 @@
 - Categorize/order
 
 ## List
+- Eric Elliott - [The Secret of Simple Code](https://www.youtube.com/watch?v=F-JvvFlYcts)
 - Eric Elliott - [Composing Software](https://www.amazon.ca/Composing-Software-Exploration-Programming-Composition/dp/1661212565/ref=sr_1_1?dchild=1&keywords=composing+software&qid=1624062843&s=books&sr=1-1)
 - Eric Elliott - [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
-- Eric Elliott - [Encapsulation in JavaScript](https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4)
+- Eric Elliott - [Encapsulation in JavaScript](https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4)=
+- Eric Elliott - [The Secret of Simple Code](https://www.youtube.com/watch?v=F-JvvFlYcts)
+- Eric Elliott - [The Missing Introduction to React](https://www.youtube.com/watch?v=BgZWA1EAIY0)
 - Eric Evans - [Domain Driven Design](https://www.amazon.ca/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=pd_lpo_1?pd_rd_i=0321125215&psc=1)
 - Adam Dymitruk - [Event Modeling Organization](https://eventmodeling.org/)
 - Adam Dymitruk - [Event Modeling Talk](https://www.youtube.com/watch?v=UYJ83me8O58)
