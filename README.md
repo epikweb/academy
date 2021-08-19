@@ -100,3 +100,5 @@
 - InstaCart - [RDS Postgres Sharding](https://tech.instacart.com/scaling-at-instacart-distributing-data-across-multiple-postgres-databases-with-rails-13b1e4eba202)
 - Mark Seeman - [Service Locator is an Anti-Pattern](https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
 - Andrew Dunstan - [Partitioning a large table without a long running lock](https://www.2ndquadrant.com/en/blog/partitioning-a-large-table-without-a-long-running-lock/)
+- Twitch.tv - [How Twitch uses PostgreSQL](https://blog.twitch.tv/en/2016/10/11/how-twitch-uses-postgresql-c34aa9e56f58/)
+- Greg Smith - [Inside the PostgreSQL Shared Buffer Cache](https://www.2ndquadrant.com/wp-content/uploads/2019/05/Inside-the-PostgreSQL-Shared-Buffer-Cache.pdf)
