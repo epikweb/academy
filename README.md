@@ -106,3 +106,4 @@
 - Laurenz Albe - [Optimizing PostgreSQL Autovacuum](https://www.cybertec-postgresql.com/en/postgresql-autovacuum-insert-only-tables/)
 - Joe Wilm - [Lessons Learned From 5 Years of Scaling PostgreSQL](https://onesignal.com/blog/lessons-learned-from-5-years-of-scaling-postgresql/)
 - Keith Fiske - [Managing Transaction ID Exhaustion (Wraparound) in PostgreSQL](https://blog.crunchydata.com/blog/managing-transaction-id-wraparound-in-postgresql)
+- Hans-Jürgen Schönig - [Autovacuum Wraparound Protection in PostgreSQL](https://www.cybertec-postgresql.com/en/autovacuum-wraparound-protection-in-postgresql/)
