@@ -104,6 +104,7 @@
 - Aaron Brashears - [How Twitch uses PostgreSQL](https://blog.twitch.tv/en/2016/10/11/how-twitch-uses-postgresql-c34aa9e56f58/)
 - Greg Smith - [Inside the PostgreSQL Shared Buffer Cache](https://www.2ndquadrant.com/wp-content/uploads/2019/05/Inside-the-PostgreSQL-Shared-Buffer-Cache.pdf)
 - Laurenz Albe - [Optimizing PostgreSQL Autovacuum](https://www.cybertec-postgresql.com/en/postgresql-autovacuum-insert-only-tables/)
+- Laurenz Albe - [Join Strategies and Performance in PostgreSQL](https://www.cybertec-postgresql.com/en/join-strategies-and-performance-in-postgresql/)
 - Joe Wilm - [Lessons Learned From 5 Years of Scaling PostgreSQL](https://onesignal.com/blog/lessons-learned-from-5-years-of-scaling-postgresql/)
 - Keith Fiske - [Managing Transaction ID Exhaustion (Wraparound) in PostgreSQL](https://blog.crunchydata.com/blog/managing-transaction-id-wraparound-in-postgresql)
 - Hans-Jürgen Schönig - [Autovacuum Wraparound Protection in PostgreSQL](https://www.cybertec-postgresql.com/en/autovacuum-wraparound-protection-in-postgresql/)
