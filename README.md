@@ -111,3 +111,4 @@
 - Keith Fiske - [Managing Transaction ID Exhaustion (Wraparound) in PostgreSQL](https://blog.crunchydata.com/blog/managing-transaction-id-wraparound-in-postgresql)
 - Hans-Jürgen Schönig - [Autovacuum Wraparound Protection in PostgreSQL](https://www.cybertec-postgresql.com/en/autovacuum-wraparound-protection-in-postgresql/)
 - Paul Hammant - [Cookie Cutter Scaling](https://paulhammant.com/2011/11/29/cookie-cutter-scaling/)
+- Kaarel Moppel - [PostgreSQL major version upgrade without downtime](https://www.cybertec-postgresql.com/en/upgrading-postgres-major-versions-using-logical-replication/)
