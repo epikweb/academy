@@ -113,4 +113,5 @@
 - Paul Hammant - [Cookie Cutter Scaling](https://paulhammant.com/2011/11/29/cookie-cutter-scaling/)
 - Kaarel Moppel - [PostgreSQL major version upgrade without downtime](https://www.cybertec-postgresql.com/en/upgrading-postgres-major-versions-using-logical-replication/)
 - Quinn Weaver - [Change autovacuum_freeze_max_age without a restart](https://hacksoclock.blogspot.com/2017/03/change-autovacuumfreezemaxage-without.html)
-- Dmitry Dvoinikov - [Database Fragmentation](https://www.targeted.org/articles/databases/fragmentation.html)
+- Dmitry Dvoinikov - [Database Fragmentation (billion+ row tables)](https://www.targeted.org/articles/databases/fragmentation.html)
+- PostgreSQL - [Tuning max_connections to avoid thrashing](https://wiki.postgresql.org/wiki/Number_Of_Database_Connections)
