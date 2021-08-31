@@ -43,6 +43,7 @@
 - Vladik Khononov - [Tackling Complexity in CQRS](https://vladikk.com/2017/03/20/tackling-complexity-in-cqrs/)
 - Vladik Khononov - [Bounded Contexts vs Microservices](https://vladikk.com/2018/01/21/bounded-contexts-vs-microservices/)
 - Vladik Khononov - [The Dark Side of Events](https://www.youtube.com/watch?v=ILC0RP-NcLE&ab_channel=NDCConferences)
+- Vladik Khoronov - [Revisiting the Basics of DDD](https://vladikk.com/2018/01/26/revisiting-the-basics-of-ddd/)
 - Derek Comartin - [CodeOpinion Videos](https://www.youtube.com/watch?v=bxGkavGaEiM)
 - Vladimir Khorikov - [When to Mock](https://enterprisecraftsmanship.com/posts/when-to-mock/)
 - Vladimir Khorikov - [Immutable Architecture](https://enterprisecraftsmanship.com/posts/immutable-architecture/)
