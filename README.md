@@ -117,3 +117,4 @@
 - Dmitry Dvoinikov - [Database Fragmentation (billion+ row tables)](https://www.targeted.org/articles/databases/fragmentation.html)
 - PostgreSQL - [Tuning max_connections to avoid thrashing](https://wiki.postgresql.org/wiki/Number_Of_Database_Connections)
 - Jeremie Chassaing - [Event Sourcing vs Command Sourcing](https://thinkbeforecoding.com/post/2013/07/28/Event-Sourcing-vs-Command-Sourcing)
+- Robert Pankowecki - [Correlation id and causation id in evented systems](https://blog.arkency.com/correlation-id-and-causation-id-in-evented-systems/)
