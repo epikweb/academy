@@ -116,3 +116,4 @@
 - Quinn Weaver - [Change autovacuum_freeze_max_age without a restart](https://hacksoclock.blogspot.com/2017/03/change-autovacuumfreezemaxage-without.html)
 - Dmitry Dvoinikov - [Database Fragmentation (billion+ row tables)](https://www.targeted.org/articles/databases/fragmentation.html)
 - PostgreSQL - [Tuning max_connections to avoid thrashing](https://wiki.postgresql.org/wiki/Number_Of_Database_Connections)
+- Jeremie Chassaing - [Event Sourcing vs Command Sourcing](https://thinkbeforecoding.com/post/2013/07/28/Event-Sourcing-vs-Command-Sourcing)
