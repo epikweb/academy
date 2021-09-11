@@ -122,3 +122,4 @@
 - Julien Demangeon - [Elixir GenServer Explained to Redux Developers](https://marmelab.com/blog/2017/10/04/elixir-genserver-explained-to-redux-developers.html)
 - Naveen Negi - [Elixir GenServer Explained in DDD Concepts](https://naveennegi.medium.com/domain-driven-design-in-elixir-4dc416ac0a36)
 - Sebastian Gebski - [Immutable Code](https://no-kill-switch.ghost.io/wiping-the-tech-debt-out-with-immutable-code/)
+- Architecture Patterns - [Stage Driven Event Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch02.html)
