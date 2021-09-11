@@ -118,3 +118,4 @@
 - PostgreSQL - [Tuning max_connections to avoid thrashing](https://wiki.postgresql.org/wiki/Number_Of_Database_Connections)
 - Jeremie Chassaing - [Event Sourcing vs Command Sourcing](https://thinkbeforecoding.com/post/2013/07/28/Event-Sourcing-vs-Command-Sourcing)
 - Robert Pankowecki - [Correlation id and causation id in evented systems](https://blog.arkency.com/correlation-id-and-causation-id-in-evented-systems/)
+- Julien Demangeon - [Elixir GenServer Explained to Redux Developers](https://marmelab.com/blog/2017/10/04/elixir-genserver-explained-to-redux-developers.html)
