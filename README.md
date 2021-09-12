@@ -13,6 +13,7 @@
 - Eric Elliott - [Encapsulation in JavaScript](https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4)
 - Eric Elliott - [The Secret of Simple Code](https://www.youtube.com/watch?v=F-JvvFlYcts)
 - Eric Elliott - [The Missing Introduction to React](https://www.youtube.com/watch?v=BgZWA1EAIY0)
+- Eric Elliott - [Event Sourcing vs. Redux](https://medium.com/@_ericelliott/the-command-pattern-event-sourcing-and-redux-are-all-different-architectures-but-they-all-3e36b70cbc60)
 - Eric Evans - [Domain Driven Design](https://www.amazon.ca/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=pd_lpo_1?pd_rd_i=0321125215&psc=1)
 - Dan McKinley - [Boring Technology Club](http://boringtechnology.club/)
 - Adam Dymitruk - [Event Modeling Organization](https://eventmodeling.org/)
