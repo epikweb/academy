@@ -128,3 +128,4 @@
 - Naveen Negi - [Elixir GenServer Explained in DDD Concepts](https://naveennegi.medium.com/domain-driven-design-in-elixir-4dc416ac0a36)
 - Sebastian Gebski - [Immutable Code](https://no-kill-switch.ghost.io/wiping-the-tech-debt-out-with-immutable-code/)
 - Architecture Patterns - [Stage Driven Event Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch02.html)
+- Jeremy Chassaing - [Functional Event Sourcing](https://www.youtube.com/watch?v=kgYGMVDHQHs&t=8538s&ab_channel=Event-DrivenInformationSystems)
