@@ -42,6 +42,7 @@
 - Jimmy Bogard - [Ditch the Repository Pattern Already](https://lostechies.com/derekgreer/2018/02/20/ditch-the-repository-pattern-already/)
 - Jimmy Bogard - [CQRS/MediatR implementation patterns](https://lostechies.com/jimmybogard/2016/10/27/cqrsmediatr-implementation-patterns/)
 - Jimmy Bogard - [Avoid In-Memory Databases for Tests](https://jimmybogard.com/avoid-in-memory-databases-for-tests/)
+- Jimmy Bogard - [Effective Microservice Communication and Conversation Patterns](https://www.youtube.com/watch?v=aHsVsbo_VOE)
 - Code Smells - [Feature Envy](https://refactoring.guru/smells/feature-envy)
 - Code Smells - [Inappropriate Intimacy](https://refactoring.guru/smells/inappropriate-intimacy)
 - Code Smells - [Middle Man](https://refactoring.guru/smells/middle-man)
