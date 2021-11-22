@@ -99,6 +99,7 @@
 - Enterprise Integration Patterns - [Routing Slip](https://www.enterpriseintegrationpatterns.com/patterns/messaging/RoutingTable.html)
 - Enterprise Integration Patterns - [Process Manager](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ProcessManager.html)
 - Enterprise Integration Patterns - [Competing Consumers](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html)
+- Enterprise Integration Patterns - [Correlation Identifier](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CorrelationIdentifier.html)
 - David Fowler - [Cloud Data Management](https://dataschool.com/data-governance/)
 - DataBricks - [Lambda Architecture](https://databricks.com/glossary/lambda-architecture)
 - Uber - [Kappa/Lambda Architecture](https://eng.uber.com/kappa-architecture-data-stream-processing/)
