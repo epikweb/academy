@@ -136,3 +136,4 @@
 - Jeremy Chassaing - [Functional Event Sourcing](https://www.youtube.com/watch?v=kgYGMVDHQHs&t=8538s&ab_channel=Event-DrivenInformationSystems)
 - Xem - [WebGL Tutorial - Part 1](https://xem.github.io/articles/webgl-guide.html)
 - Xem - [WebGL Tutorial - Part 2](https://xem.github.io/articles/webgl-guide-part-2.html)
+- CloudFlare - [Durable Objects](https://developers.cloudflare.com/workers/learning/using-durable-objects)
