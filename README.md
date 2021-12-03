@@ -134,3 +134,5 @@
 - Sebastian Gebski - [Immutable Code](https://no-kill-switch.ghost.io/wiping-the-tech-debt-out-with-immutable-code/)
 - Architecture Patterns - [Stage Driven Event Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch02.html)
 - Jeremy Chassaing - [Functional Event Sourcing](https://www.youtube.com/watch?v=kgYGMVDHQHs&t=8538s&ab_channel=Event-DrivenInformationSystems)
+- Xem - [WebGL Tutorial - Part 1](https://xem.github.io/articles/webgl-guide.html)
+- Xem - [WebGL Tutorial - Part 2](https://xem.github.io/articles/webgl-guide-part-2.html)
