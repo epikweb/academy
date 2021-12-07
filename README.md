@@ -58,6 +58,7 @@
 - Vladimir Khorikov - [Refactoring from Anemic Domain Model](https://www.pluralsight.com/courses/refactoring-anemic-domain-model)
 - Vladimir Khorikov - [Applying Functional Principles in C#](https://www.pluralsight.com/courses/csharp-applying-functional-principles)
 - Vladimir Khorikov - [Unit Testing Principles](https://www.amazon.ca/Unit-Testing-Principles-Practices-Patterns/dp/1617296279/ref=sr_1_1?dchild=1&keywords=unit+testing+principles&qid=1624062808&s=books&sr=1-1)
+- Vladimir Khorikov - [Should you Abstract the Database](https://enterprisecraftsmanship.com/posts/should-you-abstract-database)
 - Greg Young - [Versioning in an Event Sourced System](https://leanpub.com/esversioning/read)
 - Greg Young - [A Decade of DDD, CQRS, Event Sourcing](https://www.youtube.com/watch?v=LDW0QWie21s)
 - Matt Ho - [Serverless Event Sourcing with Go](https://www.youtube.com/watch?v=B-reKkB8L5Q)
