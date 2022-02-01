@@ -138,3 +138,4 @@
 - Xem - [WebGL Tutorial - Part 1](https://xem.github.io/articles/webgl-guide.html)
 - Xem - [WebGL Tutorial - Part 2](https://xem.github.io/articles/webgl-guide-part-2.html)
 - CloudFlare - [Durable Objects](https://developers.cloudflare.com/workers/learning/using-durable-objects)
+- Magnus Tovslid - [IO Monad](https://medium.com/@magnusjt/the-io-monad-in-javascript-how-does-it-compare-to-other-techniques-124ef8a35b63)
