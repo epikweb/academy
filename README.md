@@ -145,3 +145,4 @@
 - Debby Nirwan - [Designing AI Agents’ Behaviors with Behavior Trees](https://towardsdatascience.com/designing-ai-agents-behaviors-with-behavior-trees-b28aa1c3cf8a)
 - Debby Nirwan - [Behavior Trees with Automated Planning Capability](https://towardsdatascience.com/behavior-trees-with-automated-planning-capability-ad2a9ff9b28e)
 - Emad Butt - [Hierarchical Task Network in an RTS game (microRTS)](https://www.youtube.com/watch?v=GpaUVZcTpKk)
+- Wikipedia - [Stanford Research Institute Problem Solver](https://en.wikipedia.org/wiki/Stanford_Research_Institute_Problem_Solver)
