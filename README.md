@@ -141,3 +141,5 @@
 - CloudFlare - [Durable Objects](https://developers.cloudflare.com/workers/learning/using-durable-objects)
 - Magnus Tovslid - [IO Monad](https://medium.com/@magnusjt/the-io-monad-in-javascript-how-does-it-compare-to-other-techniques-124ef8a35b63)
 - Alon Pe'er - [Consumer Driven Contract Testing](https://www.youtube.com/watch?v=nQ0UGY2-YYI)
+- Flows - [Demp](https://www.youtube.com/watch?v=S5ndrNngMo4)
+- Debby Nirwan - [Designing AI Agents’ Behaviors with Behavior Trees](https://towardsdatascience.com/designing-ai-agents-behaviors-with-behavior-trees-b28aa1c3cf8a)
