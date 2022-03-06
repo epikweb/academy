@@ -143,3 +143,4 @@
 - Alon Pe'er - [Consumer Driven Contract Testing](https://www.youtube.com/watch?v=nQ0UGY2-YYI)
 - CasinoFriday Flows - [Demo](https://www.youtube.com/watch?v=S5ndrNngMo4)
 - Debby Nirwan - [Designing AI Agents’ Behaviors with Behavior Trees](https://towardsdatascience.com/designing-ai-agents-behaviors-with-behavior-trees-b28aa1c3cf8a)
+- Debby Nirwan - [Behavior Trees with Automated Planning Capability](https://towardsdatascience.com/behavior-trees-with-automated-planning-capability-ad2a9ff9b28e)
