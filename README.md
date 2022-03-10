@@ -19,6 +19,7 @@
 - Dan McKinley - [Boring Technology Club](http://boringtechnology.club/)
 - Adam Dymitruk - [Event Modeling Organization](https://eventmodeling.org/)
 - Adam Dymitruk - [Event Modeling Talk](https://www.youtube.com/watch?v=UYJ83me8O58)
+- Adam Dymitruk - [Modeling Cross-Entity Invariants](https://www.youtube.com/watch?v=LuIVKL8y70E)
 - Vaughn Vernon - [oDDs and enDDs](https://www.youtube.com/watch?v=4UZZjyQDgT8)
 - Vaughn Vernon - [Rethinking Legacy and Monolithic Systems](https://www.youtube.com/watch?v=OSARwCnSRCI)
 - Vaughn Vernon - [Implementing Domain Driven Design](https://www.amazon.ca/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8/ref=sr_1_1?dchild=1&keywords=vaughn+vernon&qid=1624141592&sr=8-1)
