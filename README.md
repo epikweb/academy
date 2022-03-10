@@ -149,3 +149,5 @@
 - Emad Butt - [Hierarchical Task Network in an RTS game (microRTS)](https://www.youtube.com/watch?v=GpaUVZcTpKk)
 - Wikipedia - [Stanford Research Institute Problem Solver](https://en.wikipedia.org/wiki/Stanford_Research_Institute_Problem_Solver)
 - GameAIPro - [Exploring HTN Planners through Example](https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf)
+- Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=wmrbVjjBRXM)
+- Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
