@@ -152,3 +152,6 @@
 - GameAIPro - [Exploring HTN Planners through Example](https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf)
 - Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=wmrbVjjBRXM)
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
+- Chris Conway - [Goal-Oriented Action Planning: Ten Years of AI Programming](https://www.youtube.com/watch?v=gm7K68663rA)
+- AI and Games - [The AI of Horizon Zero Dawn | Part 1: Rise of the Machines](https://www.youtube.com/watch?v=XxuSFBVQULY)
+- AI and Games - [The AI of Horizon Zero Dawn | Part 2: Metal Militia | AI and Games](https://www.youtube.com/watch?v=9RRjM1yNvy4)
