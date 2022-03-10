@@ -136,6 +136,8 @@
 - Sebastian Gebski - [Immutable Code](https://no-kill-switch.ghost.io/wiping-the-tech-debt-out-with-immutable-code/)
 - Architecture Patterns - [Stage Driven Event Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch02.html)
 - Jeremy Chassaing - [Functional Event Sourcing](https://www.youtube.com/watch?v=kgYGMVDHQHs&t=8538s&ab_channel=Event-DrivenInformationSystems)
+- Vadim Samokhin - [Example of Service Boundaries Identification](https://medium.com/hackernoon/example-of-service-boundaries-identification-e9077c513560)
+- Vadim Samokhin - [Wrong Ways of Defining Service Boundaries](https://medium.com/hackernoon/wrong-ways-of-defining-service-boundaries-d9e313007bcc)
 - Xem - [WebGL Tutorial - Part 1](https://xem.github.io/articles/webgl-guide.html)
 - Xem - [WebGL Tutorial - Part 2](https://xem.github.io/articles/webgl-guide-part-2.html)
 - CloudFlare - [Durable Objects](https://developers.cloudflare.com/workers/learning/using-durable-objects)
