@@ -155,4 +155,4 @@
 - Chris Conway - [Goal-Oriented Action Planning: Ten Years of AI Programming](https://www.youtube.com/watch?v=gm7K68663rA)
 - AI and Games - [The AI of Horizon Zero Dawn | Part 1: Rise of the Machines](https://www.youtube.com/watch?v=XxuSFBVQULY)
 - AI and Games - [The AI of Horizon Zero Dawn | Part 2: Metal Militia | AI and Games](https://www.youtube.com/watch?v=9RRjM1yNvy4)
-- David I. Spivak - [Category Theory for Scientist](https://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/MIT18_S996S13_textbook.pdf)
+- David I. Spivak - [Category Theory for Scientists](https://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/MIT18_S996S13_textbook.pdf)
