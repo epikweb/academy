@@ -167,3 +167,5 @@
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Inadequate Persistence System](https://cedanet.com.au/antipatterns/inadequate-persistence-system.php)
 - David Barrett-Lennard - [Cedanet - Glossary](https://cedanet.com.au/site-map.php)
 - Lightbend - [Akka - Replicated Event Sourcing](https://akka.io/blog/news/2020/09/09/replicated-event-sourcing-video)
+- Lightbend - [Akka - Replicated Event Sourcing - Architecture](https://www.youtube.com/watch?v=SuTPY5MxmUM)
+- Lightbend - [Akka - Replicated Event Sourcing - Modeling](https://www.youtube.com/watch?v=8PnJxTlOP6o)
