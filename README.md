@@ -169,3 +169,4 @@
 - Lightbend - [Akka - Replicated Event Sourcing](https://akka.io/blog/news/2020/09/09/replicated-event-sourcing-video)
 - Lightbend - [Akka - Replicated Event Sourcing - Architecture](https://www.youtube.com/watch?v=SuTPY5MxmUM)
 - Lightbend - [Akka - Replicated Event Sourcing - Modeling](https://www.youtube.com/watch?v=8PnJxTlOP6o)
+- Lightbend - [Akka Serverless JavaScript](https://developer.lightbend.com/docs/akka-serverless/javascript)
