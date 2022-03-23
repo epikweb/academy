@@ -164,5 +164,5 @@
 - David Barrett-Lennard - [Cedanet - Anti-patterns](https://cedanet.com.au/antipatterns/)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Location transparency](https://cedanet.com.au/antipatterns/location-transparency.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Logical independence](https://cedanet.com.au/relational-model/logical-independence.php)
-- David Barrett-Lennard - [Cedanet - Anti-patterns - Inadequate Persistence System](https://cedanet.com.au/relational-model/logical-independence.php)
+- David Barrett-Lennard - [Cedanet - Anti-patterns - Inadequate Persistence System](https://cedanet.com.au/antipatterns/inadequate-persistence-system.php)
 - David Barrett-Lennard - [Cedanet - Glossary](https://cedanet.com.au/site-map.php)
