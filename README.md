@@ -25,6 +25,7 @@
 - Vaughn Vernon - [Implementing Domain Driven Design](https://www.amazon.ca/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8/ref=sr_1_1?dchild=1&keywords=vaughn+vernon&qid=1624141592&sr=8-1)
 - Vaughn Vernon - [DDD Integration Patterns - XOOM Schemata](https://docs.vlingo.io/xoom-schemata)
 - Vaughn Vernon - [The Language of Actors](https://www.youtube.com/watch?v=gHqxPV_lT_I)
+- Vaughn Vernon - [Reactive Messaging Patterns with the Actor Model](https://www.amazon.ca/Reactive-Messaging-Patterns-Actor-Model/dp/0133846830)
 - Martin Fowler - [Monolith First](https://martinfowler.com/bliki/MonolithFirst.html)
 - Martin Fowler - [Microservice Premium](https://martinfowler.com/bliki/MicroservicePremium.html)
 - Martin Fowler - [CQRS](https://martinfowler.com/bliki/CQRS.html)
@@ -151,7 +152,8 @@
 - Wikipedia - [Stanford Research Institute Problem Solver](https://en.wikipedia.org/wiki/Stanford_Research_Institute_Problem_Solver)
 - GameAIPro - [Exploring HTN Planners through Example](https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf)
 - Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=wmrbVjjBRXM)
-- Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
+- Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)\
+- Debasish Ghosh - [DSLs in Action](https://www.manning.com/books/dsls-in-action)
 - Chris Conway - [Goal-Oriented Action Planning: Ten Years of AI Programming](https://www.youtube.com/watch?v=gm7K68663rA)
 - AI and Games - [The AI of Horizon Zero Dawn | Part 1: Rise of the Machines](https://www.youtube.com/watch?v=XxuSFBVQULY)
 - AI and Games - [The AI of Horizon Zero Dawn | Part 2: Metal Militia | AI and Games](https://www.youtube.com/watch?v=9RRjM1yNvy4)
