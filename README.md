@@ -152,7 +152,7 @@
 - Wikipedia - [Stanford Research Institute Problem Solver](https://en.wikipedia.org/wiki/Stanford_Research_Institute_Problem_Solver)
 - GameAIPro - [Exploring HTN Planners through Example](https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf)
 - Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=wmrbVjjBRXM)
-- Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)\
+- Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
 - Debasish Ghosh - [DSLs in Action](https://www.manning.com/books/dsls-in-action)
 - Chris Conway - [Goal-Oriented Action Planning: Ten Years of AI Programming](https://www.youtube.com/watch?v=gm7K68663rA)
 - AI and Games - [The AI of Horizon Zero Dawn | Part 1: Rise of the Machines](https://www.youtube.com/watch?v=XxuSFBVQULY)
@@ -161,3 +161,8 @@
 - William Heslam - [Modelling Side Effects via Extensible Effects (Free Monad)](https://www.youtube.com/watch?v=uxdMJwA5fBY&ab_channel=CodeSync)
 - Brian Lonsdorf - [Frontend Masters - Hardcore Functional Architecture](https://frontendmasters.com/courses/hardcore-js-patterns)
 - Brian Lonsdorf - [Free Monad Example](https://github.com/DrBoolean/freeky)
+- David Barrett-Lennard - [Cedanet - Anti-patterns](https://cedanet.com.au/antipatterns/)
+- David Barrett-Lennard - [Cedanet - Anti-patterns - Location transparency](https://cedanet.com.au/antipatterns/location-transparency.php)
+- David Barrett-Lennard - [Cedanet - Anti-patterns - Logical independence](https://cedanet.com.au/relational-model/logical-independence.php)
+- David Barrett-Lennard - [Cedanet - Anti-patterns - Inadequate Persistence System](https://cedanet.com.au/relational-model/logical-independence.php)
+- David Barrett-Lennard - [Cedanet - Glossary](https://cedanet.com.au/site-map.php)
