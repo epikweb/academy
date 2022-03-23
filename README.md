@@ -157,3 +157,5 @@
 - AI and Games - [The AI of Horizon Zero Dawn | Part 2: Metal Militia | AI and Games](https://www.youtube.com/watch?v=9RRjM1yNvy4)
 - David I. Spivak - [Category Theory for Scientists](https://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/MIT18_S996S13_textbook.pdf)
 - William Heslam - [Modelling Side Effects via Extensible Effects (Free Monad)](https://www.youtube.com/watch?v=uxdMJwA5fBY&ab_channel=CodeSync)
+- Brian Lonsdorf - [Frontend Masters - Hardcore Functional Architecture](https://frontendmasters.com/courses/hardcore-js-patterns)
+- Brian Lonsdorf - [Free Monad Example](https://github.com/DrBoolean/freeky)
