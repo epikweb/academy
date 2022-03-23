@@ -1,6 +1,6 @@
 # 📚 Academy
 
-📚 A curated list of books, talks and blog posts to learn DDD, CQRS, ES, Infrastructure, DevOps, Data Science, Software Architecture and JavaScript or just anything else I find cool :)
+📚 A curated list of material that I found helpful to learn more about software development & computers :)
 
 
 ## TODO
