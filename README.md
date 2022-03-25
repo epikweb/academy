@@ -168,6 +168,7 @@
 - David Barrett-Lennard - [Cedanet - Glossary](https://cedanet.com.au/site-map.php)
 - David Barrett-Lennard - [Cedanet - Implementation of a Long running transaciton](https://cedanet.com.au/ceda/messaging/saga.php)
 - David Barrett-Lennard - [Cedanet - Messaging done right](https://cedanet.com.au/ceda/messaging/messaging.php)
+- David Barrett-Lenndard - [Cedanet - Producer/consumer with a persistence queue](https://cedanet.com.au/ceda/messaging/persistent-queue.php)
 - Lightbend - [Akka - Replicated Event Sourcing](https://akka.io/blog/news/2020/09/09/replicated-event-sourcing-video)
 - Lightbend - [Akka - Replicated Event Sourcing - Architecture](https://www.youtube.com/watch?v=SuTPY5MxmUM)
 - Lightbend - [Akka - Replicated Event Sourcing - Modeling](https://www.youtube.com/watch?v=8PnJxTlOP6o)
