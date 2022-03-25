@@ -167,7 +167,7 @@
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Inadequate Persistence System](https://cedanet.com.au/antipatterns/inadequate-persistence-system.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Inadequate Persistence System](https://cedanet.com.au/antipatterns/inadequate-persistence-system.php)
 - David Barrett-Lennard - [Cedanet - Glossary](https://cedanet.com.au/site-map.php)
-- David Barrett-Lennard - [Cedanet - Implementation of a Long running transaciton](https://cedanet.com.au/ceda/messaging/saga.php)
+- David Barrett-Lennard - [Cedanet - Implementation of a Long running transaction](https://cedanet.com.au/ceda/messaging/saga.php)
 - David Barrett-Lennard - [Cedanet - Messaging done right](https://cedanet.com.au/ceda/messaging/messaging.php)
 - David Barrett-Lennard - [Cedanet - Message types are public interfaces](https://cedanet.com.au/antipatterns/messages-are-public-interfaces.php)
 - Lightbend - [Akka - Replicated Event Sourcing](https://akka.io/blog/news/2020/09/09/replicated-event-sourcing-video)
