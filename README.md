@@ -175,3 +175,4 @@
 - Lightbend - [Akka - Replicated Event Sourcing - Architecture](https://www.youtube.com/watch?v=SuTPY5MxmUM)
 - Lightbend - [Akka - Replicated Event Sourcing - Modeling](https://www.youtube.com/watch?v=8PnJxTlOP6o)
 - Lightbend - [Akka Serverless JavaScript](https://developer.lightbend.com/docs/akka-serverless/javascript)
+- Fauna - [Global ACID Transactions with Calvin](https://fauna.com/blog/acid-transactions-in-a-globally-distributed-database)
