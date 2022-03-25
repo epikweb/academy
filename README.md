@@ -177,4 +177,5 @@
 - Lightbend - [Akka Serverless JavaScript](https://developer.lightbend.com/docs/akka-serverless/javascript)
 - Fauna - [Global ACID Transactions with Calvin](https://fauna.com/blog/acid-transactions-in-a-globally-distributed-database)
 - Fauna - [SQL to FQL translation](https://docs.fauna.com/fauna/current/learn/introduction/fql_for_sql_users)
+- Fauna - [E-commerce example](https://docs.fauna.com/fauna/current/learn/tutorials/fql/ecommerce)
 - Yale University - [Calvin - Fast Distributed Transactions for Partitioned Database Systems](http://www.cs.umd.edu/~abadi/papers/calvin-sigmod12.pdf)
