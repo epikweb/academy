@@ -165,7 +165,7 @@
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Location transparency](https://cedanet.com.au/antipatterns/location-transparency.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Logical independence](https://cedanet.com.au/relational-model/logical-independence.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Inadequate Persistence System](https://cedanet.com.au/antipatterns/inadequate-persistence-system.php)
-- David Barrett-Lennard - [Cedanet - Anti-patterns - Producer/consumer with persistent queue (simplicity)]https://cedanet.com.au/ceda/messaging/persistent-queue.php)
+- David Barrett-Lennard - [Cedanet - Anti-patterns - Producer/consumer with persistent queue (simple)](https://cedanet.com.au/ceda/messaging/persistent-queue.php)
 - David Barrett-Lennard - [Cedanet - Glossary](https://cedanet.com.au/site-map.php)
 - David Barrett-Lennard - [Cedanet - Implementation of a Long running transaction](https://cedanet.com.au/ceda/messaging/saga.php)
 - David Barrett-Lennard - [Cedanet - Messaging done right](https://cedanet.com.au/ceda/messaging/messaging.php)
