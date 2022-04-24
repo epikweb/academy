@@ -181,4 +181,4 @@
 - Yale University - [Calvin - Fast Distributed Transactions for Partitioned Database Systems](http://www.cs.umd.edu/~abadi/papers/calvin-sigmod12.pdf)
 - Dr. Axel Rauschmayer - [Continuation Passing Style](https://2ality.com/2012/06/continuation-passing-style.html)
 - Yuriy Bogomolov - [Building eDSLs in functional TypeScript (English version)](https://www.youtube.com/watch?v=hTnxaB52awA)
-- David Barrett-Lennard - [Cedanet - Anti-pattern: interleaving computation and I/O](https://cedanet.com.au/antipatterns/excessive-loose-coupling.php)
+- David Barrett-Lennard - [Cedanet - Anti-pattern: interleaving computation and I/O](https://cedanet.com.au/antipatterns/interleaving-computation-and-io.php)
