@@ -183,3 +183,5 @@
 - Yuriy Bogomolov - [Building eDSLs in functional TypeScript (English version)](https://www.youtube.com/watch?v=hTnxaB52awA)
 - David Barrett-Lennard - [Cedanet - Anti-pattern: interleaving computation and I/O](https://cedanet.com.au/antipatterns/interleaving-computation-and-io.php)
 - AI and Games - [The AI of Horizon Zero Dawn | Part 1: Rise of the Machines | AI and Games](https://youtu.be/XxuSFBVQULY?t=735)
+- Ian Hofmann-Hicks - [State Monad](https://egghead.io/lessons/javascript-construct-a-stateful-monad)
+- Ian Hofmann-Hicks - [Algebraic JavaScript](https://www.youtube.com/watch?v=9qhhcmABzSQ)
