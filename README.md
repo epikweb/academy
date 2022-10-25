@@ -185,3 +185,4 @@
 - AI and Games - [The AI of Horizon Zero Dawn | Part 1: Rise of the Machines | AI and Games](https://youtu.be/XxuSFBVQULY?t=735)
 - Ian Hofmann-Hicks - [State Monad](https://egghead.io/lessons/javascript-construct-a-stateful-monad)
 - Ian Hofmann-Hicks - [Algebraic JavaScript](https://www.youtube.com/watch?v=9qhhcmABzSQ)
+- Frits Hoogland - [How to enable SSL for pgbouncer](https://dev.to/yugabyte/how-to-enable-ssl-for-postgres-connections-5321)
