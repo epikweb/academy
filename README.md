@@ -6,18 +6,27 @@
 ## TODO
 - Categorize/order
 
-## List
+## Database Design
+- David Barrett-Lennard - [Cedanet - Sitemap](https://cedanet.com.au/site-map.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns](https://cedanet.com.au/antipatterns/)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Location transparency](https://cedanet.com.au/antipatterns/location-transparency.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Advanced messaging systems](https://cedanet.com.au/antipatterns/advanced-messaging-systems.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Inadequate Persistence System](https://cedanet.com.au/antipatterns/inadequate-persistence-system.php)
-- David Barrett-Lennard - [Cedanet - Anti-patterns - Message types are public interfaces](https://cedanet.com.au/antipatterns/messages-are-public-interfaces.php)
+- David Barrett-Lennard - [Cedanet - Anti-patterns - Orthogonal persistence](https://cedanet.com.au/antipatterns/orthogonal-persistence.php)
+- David Barrett-Lennard - [Cedanet - Anti-patterns - Interleaving computation and I/O](https://cedanet.com.au/antipatterns/interleaving-computation-and-io.php)
+- David Barrett-Lennard - [Cedanet - Anti-patterns - More is less](https://cedanet.com.au/antipatterns/more-is-less.php)
+- David Barrett-Lennard - [Cedanet - Anti-patterns - Service statelessness principle](https://cedanet.com.au/ceda/cache/)
 - David Barrett-Lennard - [Cedanet - Producer/consumer with persistent queue (simple)](https://cedanet.com.au/ceda/messaging/persistent-queue.php)
 - David Barrett-Lennard - [Cedanet - Glossary](https://cedanet.com.au/site-map.php)
 - David Barrett-Lennard - [Cedanet - Implementation of a Long running transaction](https://cedanet.com.au/ceda/messaging/saga.php)
 - David Barrett-Lennard - [Cedanet - Messaging done right](https://cedanet.com.au/ceda/messaging/messaging.php)
-- David Barrett-Lennard - [Cedanet - Pizza delivery domain modeling](https://cedanet.com.au/ceda/libs/cxPython/pizza-example.php)
-- David Barrett-Lenndard - [Cedanet - Approaches for high performance distributed workloads in CEDA](https://cedanet.com.au/antipatterns/high-performance-distributed-workloads-in-ceda.php)
+- David Barrett-Lennard - [Cedanet - Approaches for high performance distributed workloads in CEDA](https://cedanet.com.au/antipatterns/high-performance-distributed-workloads-in-ceda.php)
+- David Barrett-Lennard - [Cedanet - Log Structured Store (LSS)](https://cedanet.com.au/ceda/libs/cxLss/lss.php)
+- David Barrett-Lennard - [Cedanet - Log structured store versus Write ahead logging](https://cedanet.com.au/ceda/libs/cxLss/lss-versus-wal.php)
+- John Pradeep Vincent - [Log Structured Merge Trees](https://medium.com/swlh/log-structured-merge-trees-9c8e2bea89e8)
+- Greg Young - [How an EventStore actually works](https://www.youtube.com/watch?v=YUjO1wM0PZM)
+
+## Software Design
 - Eric Elliott - [The Secret of Simple Code](https://www.youtube.com/watch?v=F-JvvFlYcts)
 - Eric Elliott - [Composing Software](https://www.amazon.ca/Composing-Software-Exploration-Programming-Composition/dp/1661212565/ref=sr_1_1?dchild=1&keywords=composing+software&qid=1624062843&s=books&sr=1-1)
 - Eric Elliott - [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
