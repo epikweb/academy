@@ -9,7 +9,7 @@
 ## List
 - David Barrett-Lennard - [Cedanet - Anti-patterns](https://cedanet.com.au/antipatterns/)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Location transparency](https://cedanet.com.au/antipatterns/location-transparency.php)
-- David Barrett-Lennard - [Cedanet - Anti-patterns - Logical independence](https://cedanet.com.au/relational-model/logical-independence.php)
+- David Barrett-Lennard - [Cedanet - Anti-patterns - Advanced messaging systems](https://cedanet.com.au/antipatterns/advanced-messaging-systems.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Inadequate Persistence System](https://cedanet.com.au/antipatterns/inadequate-persistence-system.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Message types are public interfaces](https://cedanet.com.au/antipatterns/messages-are-public-interfaces.php)
 - David Barrett-Lennard - [Cedanet - Producer/consumer with persistent queue (simple)](https://cedanet.com.au/ceda/messaging/persistent-queue.php)
