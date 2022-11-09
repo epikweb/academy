@@ -24,6 +24,8 @@
 - David Barrett-Lennard - [Cedanet - Approaches for high performance distributed workloads in CEDA](https://cedanet.com.au/antipatterns/high-performance-distributed-workloads-in-ceda.php)
 - David Barrett-Lennard - [Cedanet - Log Structured Store (LSS)](https://cedanet.com.au/ceda/libs/cxLss/lss.php)
 - David Barrett-Lennard - [Cedanet - Log structured store versus Write ahead logging](https://cedanet.com.au/ceda/libs/cxLss/lss-versus-wal.php)
+- David Barrett-Lennard - [Cedanet - The Data-Centric Principle](https://cedanet.com.au/ceda/data-centric-principle/data-centric-principle.php)
+- Hadean - [Rewriting the laws of cloud computing (removing middleware)](https://hadean.com/blog/rewriting-the-laws-of-cloud-computing-with-the-hadean-platform/)
 - John Pradeep Vincent - [Log Structured Merge Trees](https://medium.com/swlh/log-structured-merge-trees-9c8e2bea89e8)
 - Greg Young - [How an EventStore actually works](https://www.youtube.com/watch?v=YUjO1wM0PZM)
 
