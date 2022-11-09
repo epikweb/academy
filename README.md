@@ -14,7 +14,7 @@
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Inadequate Persistence System](https://cedanet.com.au/antipatterns/inadequate-persistence-system.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Orthogonal persistence](https://cedanet.com.au/antipatterns/orthogonal-persistence.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Interleaving computation and I/O](https://cedanet.com.au/antipatterns/interleaving-computation-and-io.php)
-- David Barrett-Lennard - [Cedanet - Anti-patterns - More is less(https://cedanet.com.au/antipatterns/more-is-less.php)]
+- David Barrett-Lennard - [Cedanet - Anti-patterns - More is less](https://cedanet.com.au/antipatterns/more-is-less.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - More is less](https://cedanet.com.au/antipatterns/more-is-less.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Kafka](https://cedanet.com.au/antipatterns/kafka.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Service statelessness principle](https://cedanet.com.au/ceda/cache/)
