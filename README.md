@@ -29,7 +29,7 @@
 - John Pradeep Vincent - [Log Structured Merge Trees](https://medium.com/swlh/log-structured-merge-trees-9c8e2bea89e8)
 - Greg Young - [How an EventStore actually works](https://www.youtube.com/watch?v=YUjO1wM0PZM)
 
-## Software Design
+## Functional Programming
 - Eric Elliott - [The Secret of Simple Code](https://www.youtube.com/watch?v=F-JvvFlYcts)
 - Eric Elliott - [Composing Software](https://www.amazon.ca/Composing-Software-Exploration-Programming-Composition/dp/1661212565/ref=sr_1_1?dchild=1&keywords=composing+software&qid=1624062843&s=books&sr=1-1)
 - Eric Elliott - [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
@@ -38,14 +38,20 @@
 - Eric Elliott - [The Missing Introduction to React](https://www.youtube.com/watch?v=BgZWA1EAIY0)
 - Eric Elliott - [Event Sourcing vs. Redux](https://medium.com/@_ericelliott/the-command-pattern-event-sourcing-and-redux-are-all-different-architectures-but-they-all-3e36b70cbc60)
 - Eric Elliott - [JavaScript Monads Made Simple](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8)
+
+
+## Domain Driven Design / CQRS / Event Sourcing / Actor Model
 - Eric Evans - [Domain Driven Design](https://www.amazon.ca/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=pd_lpo_1?pd_rd_i=0321125215&psc=1)
-- Dan McKinley - [Boring Technology Club](http://boringtechnology.club/)
 - Adam Dymitruk - [Event Modeling Organization](https://eventmodeling.org/)
 - Adam Dymitruk - [Event Modeling Talk](https://www.youtube.com/watch?v=UYJ83me8O58)
 - Adam Dymitruk - [Modeling Cross-Entity Invariants](https://www.youtube.com/watch?v=LuIVKL8y70E)
 - Vaughn Vernon - [oDDs and enDDs](https://www.youtube.com/watch?v=4UZZjyQDgT8)
 - Vaughn Vernon - [Rethinking Legacy and Monolithic Systems](https://www.youtube.com/watch?v=OSARwCnSRCI)
-- Vaughn Vernon - [Implementing Domain Driven Design](https://www.amazon.ca/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8/ref=sr_1_1?dchild=1&keywords=vaughn+vernon&qid=1624141592&sr=8-1)
+- Vaughn Vernon - [Implementing Domain Driven Design](https://www.amazon.ca/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8/ref=sr_1_1?
+- Martin Fowler - [Anemic Domain Model](https://martinfowler.com/bliki/AnemicDomainModel.html)
+- Martin Fowler - [Transaction Script](https://martinfowler.com/eaaCatalog/transactionScript.html)
+- Martin Fowler - [DDD Aggregate](https://martinfowler.com/bliki/DDD_Aggregate.html)
+- Martin Fowler - [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html)
 - Vaughn Vernon - [DDD Integration Patterns - XOOM Schemata](https://docs.vlingo.io/xoom-schemata)
 - Vaughn Vernon - [The Language of Actors](https://www.youtube.com/watch?v=gHqxPV_lT_I)
 - Vaughn Vernon - [Reactive Messaging Patterns with the Actor Model](https://www.amazon.ca/Reactive-Messaging-Patterns-Actor-Model/dp/0133846830)
@@ -53,14 +59,13 @@
 - Martin Fowler - [Microservice Premium](https://martinfowler.com/bliki/MicroservicePremium.html)
 - Martin Fowler - [CQRS](https://martinfowler.com/bliki/CQRS.html)
 - Martin Fowler - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
-- Martin Fowler - [Anemic Domain Model](https://martinfowler.com/bliki/AnemicDomainModel.html)
-- Martin Fowler - [Transaction Script](https://martinfowler.com/eaaCatalog/transactionScript.html)
-- Martin Fowler - [Patterns of Enterprise Application Architecture](https://www.amazon.ca/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?crid=2Z4PNNZS8S5G2&dchild=1&keywords=patterns+of+enterprise+application+architecture&qid=1624062774&s=books&sprefix=patterns+of+enter%2Cstripbooks%2C153&sr=1-1)
-- Martin Fowler - [DDD Aggregate](https://martinfowler.com/bliki/DDD_Aggregate.html)
-- Martin Fowler - [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html)
 - Martin Fowler - [Microservices and the First Law of Distributed Objects](https://martinfowler.com/articles/distributed-objects-microservices.html)
 - Khalil Stemmler - [DDD Forum](https://github.com/stemmlerjs/ddd-forum)
 - Khalil Stemmler - [Solid Book](https://solidbook.io/)
+
+
+## Miscellaneous Software Design
+- Martin Fowler - [Patterns of Enterprise Application Architecture](https://www.amazon.ca/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?crid=2Z4PNNZS8S5G2&dchild=1&keywords=patterns+of+enterprise+application+architecture&qid=1624062774&s=books&sprefix=patterns+of+enter%2Cstripbooks%2C153&sr=1-1)
 - Jimmy Bogard - [Vertical Slice Architecture Talk](https://www.youtube.com/watch?v=5kOzZz2vj2o)
 - Jimmy Bogard - [Vertical Slice Architecture Blog](https://jimmybogard.com/vertical-slice-architecture/)
 - Jimmy Bogard - [Limiting your abstractions](https://lostechies.com/jimmybogard/2012/09/20/limiting-your-abstractions/)
