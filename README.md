@@ -10,7 +10,7 @@
 - Adam Dymitruk - [Modeling Cross-Entity Invariants](https://www.youtube.com/watch?v=LuIVKL8y70E)
 - Vaughn Vernon - [oDDs and enDDs](https://www.youtube.com/watch?v=4UZZjyQDgT8)
 - Vaughn Vernon - [Rethinking Legacy and Monolithic Systems](https://www.youtube.com/watch?v=OSARwCnSRCI)
-- Vaughn Vernon - [Implementing Domain Driven Design](https://www.amazon.ca/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8/ref=sr_1_1?
+- Vaughn Vernon - [Implementing Domain Driven Design](https://www.amazon.ca/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8/ref=sr_1_1?)
 - Martin Fowler - [Anemic Domain Model](https://martinfowler.com/bliki/AnemicDomainModel.html)
 - Martin Fowler - [Transaction Script](https://martinfowler.com/eaaCatalog/transactionScript.html)
 - Martin Fowler - [DDD Aggregate](https://martinfowler.com/bliki/DDD_Aggregate.html)
