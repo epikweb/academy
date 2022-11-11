@@ -1,6 +1,6 @@
 # 📚 Academy
 
-📚 A curated list of material that I found helpful to learn more about software development and computers.
+📚 A curated, categorized list of material that I found helpful to learn more about software development and computers.
 
 
 ## Domain Driven Design / CQRS / Event Sourcing
