@@ -158,6 +158,7 @@
 - David Barrett-Lennard - [Cedanet - Anti-patterns - SOA/Microservices](https://cedanet.com.au/antipatterns/SOA.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Kafka](https://cedanet.com.au/antipatterns/kafka.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns - Service statelessness principle](https://cedanet.com.au/ceda/cache/)
+- David Barrett-Lennard - [Cedanet - Antipatterns - Persist state machines](https://cedanet.com.au/antipatterns/persist-state-machines.php)
 - David Barrett-Lennard - [Cedanet - Producer/consumer with persistent queue (simple)](https://cedanet.com.au/ceda/messaging/persistent-queue.php)
 - David Barrett-Lennard - [Cedanet - Implementation of a Long running transaction](https://cedanet.com.au/ceda/messaging/saga.php)
 - David Barrett-Lennard - [Cedanet - Messaging done right](https://cedanet.com.au/ceda/messaging/messaging.php)
