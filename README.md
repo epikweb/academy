@@ -3,8 +3,6 @@
 📚 A curated list of material that I found helpful to learn more about software development & computers :)
 
 
-## TODO
-- Categorize/order
 
 ## Database Design
 - David Barrett-Lennard - [Cedanet - Sitemap](https://cedanet.com.au/site-map.php)
@@ -30,6 +28,10 @@
 - Greg Young - [How an EventStore actually works](https://www.youtube.com/watch?v=YUjO1wM0PZM)
 
 ## Functional Programming
+- Debasish Ghosh - [Functional and Reactive Domain Modeling ](https://www.manning.com/books/functional-and-reactive-domain-modeling)
+- Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=wmrbVjjBRXM)
+- Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
+- Debasish Ghosh - [DSLs in Action](https://www.manning.com/books/dsls-in-action)
 - Eric Elliott - [The Secret of Simple Code](https://www.youtube.com/watch?v=F-JvvFlYcts)
 - Eric Elliott - [Composing Software](https://www.amazon.ca/Composing-Software-Exploration-Programming-Composition/dp/1661212565/ref=sr_1_1?dchild=1&keywords=composing+software&qid=1624062843&s=books&sr=1-1)
 - Eric Elliott - [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
@@ -103,7 +105,6 @@
 - Frans van Buul - [Some CQRS and Event Sourcing Pitfalls](https://axoniq.io/blog-overview/some-cqrses-pitfalls)
 - Nakul Mishra - [Axon Casino](https://github.com/nklmish/axon-casino)
 - Nakul Mishra - [CQRS and Event Sourcing with Spring & Axon](https://www.youtube.com/watch?v=hkJ29ER1EZU)
-- Debasish Ghosh - [Functional and Reactive Domain Modeling ](https://www.manning.com/books/functional-and-reactive-domain-modeling)
 - Scott Wlaschin - [Domain Modeling Made Functional](https://www.amazon.ca/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549#:~:text=Domain%20Modeling%20Made%20Functional%3A%20Tackle,9781680502541%3A%20Books%20%2D%20Amazon.ca)
 - Jef Claes - [Evil by Design](https://www.youtube.com/watch?v=EmMvnB2v1GQ)
 - Kai Sassnowski - [Database Indexing](https://www.youtube.com/watch?v=HubezKbFL7E)
@@ -179,9 +180,6 @@
 - Emad Butt - [Hierarchical Task Network in an RTS game (microRTS)](https://www.youtube.com/watch?v=GpaUVZcTpKk)
 - Wikipedia - [Stanford Research Institute Problem Solver](https://en.wikipedia.org/wiki/Stanford_Research_Institute_Problem_Solver)
 - GameAIPro - [Exploring HTN Planners through Example](https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf)
-- Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=wmrbVjjBRXM)
-- Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
-- Debasish Ghosh - [DSLs in Action](https://www.manning.com/books/dsls-in-action)
 - Chris Conway - [Goal-Oriented Action Planning: Ten Years of AI Programming](https://www.youtube.com/watch?v=gm7K68663rA)
 - AI and Games - [The AI of Horizon Zero Dawn | Part 1: Rise of the Machines](https://www.youtube.com/watch?v=XxuSFBVQULY)
 - AI and Games - [The AI of Horizon Zero Dawn | Part 2: Metal Militia | AI and Games](https://www.youtube.com/watch?v=9RRjM1yNvy4)
