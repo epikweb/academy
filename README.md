@@ -143,6 +143,7 @@
 - CloudPosse - [Terraform Open Source](https://cloudposse.com/)
 - Gruntwork.io - [How to deploy a production-grade VPC on AWS](https://gruntwork.io/guides/networking/how-to-deploy-production-grade-vpc-aws/)
 - Gruntwork.io - [How to configure a production-grade AWS account structure](https://gruntwork.io/guides/foundations/how-to-configure-production-grade-aws-account-structure/)
+- Paul Hammant - [Cookie Cutter Scaling](https://paulhammant.com/2011/11/29/cookie-cutter-scaling/)
 
 ## Database Design
 - Pat Helland - [Life beyond Distributed Transactions](http://cs.brown.edu/courses/cs227/archives/2012/papers/weaker/cidr07p15.pdf)
@@ -173,6 +174,7 @@
 - Dmitry Dvoinikov - [Database Fragmentation (billion+ row tables)](https://www.targeted.org/articles/databases/fragmentation.html)
 - Nord Fjord - [SQL Event Store](https://nordfjord.io/blog/sql-event-store-maybe-not)
 - Kai Sassnowski - [Database Indexing](https://www.youtube.com/watch?v=HubezKbFL7E)
+- Vladimir Khorikov - [Should you Abstract the Database](https://enterprisecraftsmanship.com/posts/should-you-abstract-database)
 
 ## Postgres
 - InstaCart - [RDS Postgres Blue Green Deployments](https://tech.instacart.com/creating-a-logical-replica-from-a-snapshot-in-rds-postgres-886d9d2c7343)
@@ -191,7 +193,7 @@
 - Quinn Weaver - [Change autovacuum_freeze_max_age without a restart](https://hacksoclock.blogspot.com/2017/03/change-autovacuumfreezemaxage-without.html)
 - Andrew Dunstan - [Partitioning a large table without a long running lock](https://www.2ndquadrant.com/en/blog/partitioning-a-large-table-without-a-long-running-lock/)
 
-## Display
+## Graphics
 - Xem - [WebGL Tutorial - Part 1](https://xem.github.io/articles/webgl-guide.html)
 - Xem - [WebGL Tutorial - Part 2](https://xem.github.io/articles/webgl-guide-part-2.html)
 
@@ -208,13 +210,11 @@
 - Code Smells - [Inappropriate Intimacy](https://refactoring.guru/smells/inappropriate-intimacy)
 - Code Smells - [Middle Man](https://refactoring.guru/smells/middle-man)
 - Derek Comartin - [CodeOpinion Videos](https://www.youtube.com/watch?v=bxGkavGaEiM)
-- Vladimir Khorikov - [Should you Abstract the Database](https://enterprisecraftsmanship.com/posts/should-you-abstract-database)
 - Sebastian Gebski - [State pattern, tech debt fertilizer](https://no-kill-switch.ghost.io/state-pattern-tech-debt-fertilizer/)
 - Kailash Nadh - [Scaling with common sense](https://zerodha.tech/blog/scaling-with-common-sense/)
 - Kailash Nadh - [Scaling with common sense #2](https://zerodha.tech/blog/being-future-ready-with-common-sense/)
 - Udi Dahan - [The Fallacy of Reuse](https://udidahan.com/2009/06/07/the-fallacy-of-reuse/)
 - Mark Seeman - [Service Locator is an Anti-Pattern](https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
-- Paul Hammant - [Cookie Cutter Scaling](https://paulhammant.com/2011/11/29/cookie-cutter-scaling/)
 - Architecture Patterns - [Stage Driven Event Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch02.html)
 - Alon Pe'er - [Consumer Driven Contract Testing](https://www.youtube.com/watch?v=nQ0UGY2-YYI)
 
