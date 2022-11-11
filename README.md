@@ -118,7 +118,7 @@
 - Roshan Naik - [Moving from Lambda and Kappa Architectures to Kappa+ at Uber](https://www.youtube.com/watch?v=ExU7fJFw4Bg)
 - Google - [The Dataflow Model - Out of Order Data Processing](https://research.google/pubs/pub43864/)
 - Rockset - [Aggregator Leaf Tailer Architecture](https://rockset.com/blog/aggregator-leaf-tailer-an-architecture-for-live-analytics-on-event-streams/)
-
+- Martin Kleppman - [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf)
 
 ## Artificial Intelligence
 - Debby Nirwan - [Designing AI Agents’ Behaviors with Behavior Trees](https://towardsdatascience.com/designing-ai-agents-behaviors-with-behavior-trees-b28aa1c3cf8a)
@@ -141,7 +141,8 @@
 ## Infrastructure
 - CloudPosse - [Geodesic](https://github.com/cloudposse/geodesic)
 - CloudPosse - [Terraform Open Source](https://cloudposse.com/)
-
+- Gruntwork.io - [How to deploy a production-grade VPC on AWS](https://gruntwork.io/guides/networking/how-to-deploy-production-grade-vpc-aws/)
+- Gruntwork.io - [How to configure a production-grade AWS account structure](https://gruntwork.io/guides/foundations/how-to-configure-production-grade-aws-account-structure/)
 
 ## Database Design
 - Pat Helland - [Life beyond Distributed Transactions](http://cs.brown.edu/courses/cs227/archives/2012/papers/weaker/cidr07p15.pdf)
@@ -171,7 +172,7 @@
 - Fauna - [E-commerce example](https://docs.fauna.com/fauna/current/learn/tutorials/fql/ecommerce)
 - Dmitry Dvoinikov - [Database Fragmentation (billion+ row tables)](https://www.targeted.org/articles/databases/fragmentation.html)
 - Nord Fjord - [SQL Event Store](https://nordfjord.io/blog/sql-event-store-maybe-not)
-
+- Kai Sassnowski - [Database Indexing](https://www.youtube.com/watch?v=HubezKbFL7E)
 
 ## Postgres
 - InstaCart - [RDS Postgres Blue Green Deployments](https://tech.instacart.com/creating-a-logical-replica-from-a-snapshot-in-rds-postgres-886d9d2c7343)
@@ -208,13 +209,9 @@
 - Code Smells - [Middle Man](https://refactoring.guru/smells/middle-man)
 - Derek Comartin - [CodeOpinion Videos](https://www.youtube.com/watch?v=bxGkavGaEiM)
 - Vladimir Khorikov - [Should you Abstract the Database](https://enterprisecraftsmanship.com/posts/should-you-abstract-database)
-- Kai Sassnowski - [Database Indexing](https://www.youtube.com/watch?v=HubezKbFL7E)
 - Sebastian Gebski - [State pattern, tech debt fertilizer](https://no-kill-switch.ghost.io/state-pattern-tech-debt-fertilizer/)
-- Gruntwork.io - [How to deploy a production-grade VPC on AWS](https://gruntwork.io/guides/networking/how-to-deploy-production-grade-vpc-aws/)
-- Gruntwork.io - [How to configure a production-grade AWS account structure](https://gruntwork.io/guides/foundations/how-to-configure-production-grade-aws-account-structure/)
 - Kailash Nadh - [Scaling with common sense](https://zerodha.tech/blog/scaling-with-common-sense/)
 - Kailash Nadh - [Scaling with common sense #2](https://zerodha.tech/blog/being-future-ready-with-common-sense/)
-- Martin Kleppman - [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf)
 - Udi Dahan - [The Fallacy of Reuse](https://udidahan.com/2009/06/07/the-fallacy-of-reuse/)
 - Mark Seeman - [Service Locator is an Anti-Pattern](https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
 - Paul Hammant - [Cookie Cutter Scaling](https://paulhammant.com/2011/11/29/cookie-cutter-scaling/)
