@@ -218,4 +218,4 @@
 - Mark Seeman - [Service Locator is an Anti-Pattern](https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
 - Architecture Patterns - [Stage Driven Event Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch02.html)
 - Alon Pe'er - [Consumer Driven Contract Testing](https://www.youtube.com/watch?v=nQ0UGY2-YYI)
-
+- David Barrett-Lennard - [Cedanet - Anti-pattern - SOA/Microservices](https://cedanet.com.au/antipatterns/SOA.php)
