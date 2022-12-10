@@ -68,6 +68,7 @@
 - Alex Lawrence - [Implementing DDD CQRS and Event Sourcing](https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing)
 - Scott Bellware - [Evented Autonomous Services](https://www.youtube.com/watch?v=qgKlu5gFsJM)
 - Jef Claes - [Evil by Design - Stateful Aggregates](https://www.youtube.com/watch?v=EmMvnB2v1GQ)
+- [Martin Schimak - Fact-Driven Journey](https://medium.com/plexiti/aggregates-and-sagas-are-process-owners-e8c8ba973da7)
 
 ## Actor Model
 - Lightbend - [Akka - Replicated Event Sourcing](https://akka.io/blog/news/2020/09/09/replicated-event-sourcing-video)
