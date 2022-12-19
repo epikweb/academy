@@ -107,6 +107,8 @@
 - Dr. Axel Rauschmayer - [Continuation Passing Style](https://2ality.com/2012/06/continuation-passing-style.html)
 - Yuriy Bogomolov - [Building eDSLs in functional TypeScript (English version)](https://www.youtube.com/watch?v=hTnxaB52awA)
 - Gary Bernhardt - [Functional Core, Imperative Shell](https://www.youtube.com/watch?v=yTkzNHF6rMs)a)
+- Scott Wlaschin - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
+- 
 
 ## Analytics
 - David Fowler - [Cloud Data Management](https://dataschool.com/data-governance/)
