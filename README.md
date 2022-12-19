@@ -49,7 +49,8 @@
 - Nakul Mishra - [CQRS and Event Sourcing with Spring & Axon](https://www.youtube.com/watch?v=hkJ29ER1EZU)
 - Scott Wlaschin - [Domain Modeling Made Functional](https://www.amazon.ca/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549#:~:text=Domain%20Modeling%20Made%20Functional%3A%20Tackle,9781680502541%3A%20Books%20%2D%20Amazon.c)
 - CasinoFriday Flows - [Demo](https://www.youtube.com/watch?v=S5ndrNngMo4)
-- Jeremie Chassaing - [Event Sourcing vs Command Sourcing](https://thinkbeforecoding.com/post/2013/07/28/Event-Sourcing-vs-Command-Sourcing)
+- Jérémie Chassaing - [Event Sourcing vs Command Sourcing](https://thinkbeforecoding.com/post/2013/07/28/Event-Sourcing-vs-Command-Sourcing)
+- Jérémie Chassaing - [Functional Event Sourcing](https://www.youtube.com/watch?v=whFfzQfdJZg)
 - Vadim Samokhin - [Example of Service Boundaries Identification](https://medium.com/hackernoon/example-of-service-boundaries-identification-e9077c513560)
 - Vadim Samokhin - [Wrong Ways of Defining Service Boundaries](https://medium.com/hackernoon/wrong-ways-of-defining-service-boundaries-d9e313007bcc)
 - Greg Young - [Versioning in an Event Sourced System](https://leanpub.com/esversioning/read)
@@ -100,7 +101,6 @@
 - Julien Demangeon - [Elixir GenServer Explained to Redux Developers](https://marmelab.com/blog/2017/10/04/elixir-genserver-explained-to-redux-developers.html)
 - Naveen Negi - [Elixir GenServer Explained in DDD Concepts](https://naveennegi.medium.com/domain-driven-design-in-elixir-4dc416ac0a36)
 - Sebastian Gebski - [Immutable Code](https://no-kill-switch.ghost.io/wiping-the-tech-debt-out-with-immutable-code/)
-- Jeremy Chassaing - [Functional Event Sourcing](https://www.youtube.com/watch?v=kgYGMVDHQHs&t=8538s&ab_channel=Event-DrivenInformationSystems)
 - William Heslam - [Modelling Side Effects via Extensible Effects (Free Monad)](https://www.youtube.com/watch?v=uxdMJwA5fBY&ab_channel=CodeSync)
 - David I. Spivak - [Category Theory for Scientists](https://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/MIT18_S996S13_textbook.pdf)
 - Magnus Tovslid - [IO Monad](https://medium.com/@magnusjt/the-io-monad-in-javascript-how-does-it-compare-to-other-techniques-124ef8a35b63)
@@ -108,7 +108,7 @@
 - Yuriy Bogomolov - [Building eDSLs in functional TypeScript (English version)](https://www.youtube.com/watch?v=hTnxaB52awA)
 - Gary Bernhardt - [Functional Core, Imperative Shell](https://www.youtube.com/watch?v=yTkzNHF6rMs)a)
 - Scott Wlaschin - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
-- 
+
 
 ## Analytics
 - David Fowler - [Cloud Data Management](https://dataschool.com/data-governance/)
@@ -122,6 +122,10 @@
 - Google - [The Dataflow Model - Out of Order Data Processing](https://research.google/pubs/pub43864/)
 - Rockset - [Aggregator Leaf Tailer Architecture](https://rockset.com/blog/aggregator-leaf-tailer-an-architecture-for-live-analytics-on-event-streams/)
 - Martin Kleppman - [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf)
+- Jesse Anderson - [Managing Real time Data Teams](https://www.youtube.com/watch?t=102&v=8_yMJ9_F7aY&feature=youtu.be&ab_channel=FlinkForward)
+- Jesse Anderson - [Why I Recommend My Clients NOT Use KSQL and Kafka Streams](https://www.jesse-anderson.com/2019/10/why-i-recommend-my-clients-not-use-ksql-and-kafka-streams/)
+- Flink - [Stream Operators](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/datastream/operators/overview/)
+- Aris Koliopoulos - [Drivetribe’s Kappa Architecture With Apache Flink](https://www.youtube.com/watch?v=0cJ565r2FVI)
 
 ## Artificial Intelligence
 - Debby Nirwan - [Designing AI Agents’ Behaviors with Behavior Trees](https://towardsdatascience.com/designing-ai-agents-behaviors-with-behavior-trees-b28aa1c3cf8a)
@@ -179,6 +183,7 @@
 - Nord Fjord - [SQL Event Store](https://nordfjord.io/blog/sql-event-store-maybe-not)
 - Kai Sassnowski - [Database Indexing](https://www.youtube.com/watch?v=HubezKbFL7E)
 - Vladimir Khorikov - [Should you Abstract the Database](https://enterprisecraftsmanship.com/posts/should-you-abstract-database)
+- Martin Thompson - [Event Log Architectures: when quality matters](https://www.youtube.com/watch?v=RlwO6CJbJjQ)
 
 ## Postgres
 - InstaCart - [RDS Postgres Blue Green Deployments](https://tech.instacart.com/creating-a-logical-replica-from-a-snapshot-in-rds-postgres-886d9d2c7343)
