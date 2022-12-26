@@ -106,6 +106,8 @@
 - Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=wmrbVjjBRXM)
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
 - Jakub Kozłowski - [Algebraic effects and handlers in the Effekt language](https://www.youtube.com/watch?v=vnrUIJMxZJ0&ab_channel=JakubKoz%C5%82owski)
+- Maciej Piróg - [Effect Handlers: A New Approach to Computational Effects - Lambda Days 2020](https://www.youtube.com/watch?v=6lv_E-CjGzg)
+
 
 ## Actor Model
 - Lightbend - [Akka - Replicated Event Sourcing](https://akka.io/blog/news/2020/09/09/replicated-event-sourcing-video)
