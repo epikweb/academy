@@ -109,6 +109,7 @@
 - Gary Bernhardt - [Functional Core, Imperative Shell](https://www.youtube.com/watch?v=yTkzNHF6rMs)
 - Scott Wlaschin - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
 - Brandon Dail - [Algebraic effects, Fibers, Coroutines Oh my!](https://www.youtube.com/watch?v=7GcrT0SBSnI)
+- Scott Wlaschin - [Elevated world, functor, applicative, monad explanation](https://fsharpforfunandprofit.com/posts/elevated-world/)
 
 ## Analytics
 - David Fowler - [Cloud Data Management](https://dataschool.com/data-governance/)
