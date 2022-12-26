@@ -86,7 +86,6 @@
 - Brian Lonsdorf - [Frontend Masters - Hardcore Functional Architecture](https://frontendmasters.com/courses/hardcore-js-patterns)
 - Brian Lonsdorf - [Free Monad Example](https://github.com/DrBoolean/freeky)
 - Ian Hofmann-Hicks - [State Monad](https://egghead.io/lessons/javascript-construct-a-stateful-monad)
-- Ian Hofmann-Hicks - [Algebraic JavaScript](https://www.youtube.com/watch?v=9qhhcmABzSQ)
 - Julien Demangeon - [Elixir GenServer Explained to Redux Developers](https://marmelab.com/blog/2017/10/04/elixir-genserver-explained-to-redux-developers.html)
 - Naveen Negi - [Elixir GenServer Explained in DDD Concepts](https://naveennegi.medium.com/domain-driven-design-in-elixir-4dc416ac0a36)
 - Sebastian Gebski - [Immutable Code](https://no-kill-switch.ghost.io/wiping-the-tech-debt-out-with-immutable-code/)
@@ -100,6 +99,7 @@
 - Scott Wlaschin - [Elevated world, functor, applicative, monad explanation](https://fsharpforfunandprofit.com/posts/elevated-world/)
 
 ## Functional Programming - Algebraic Effects
+- Ian Hofmann-Hicks - [Algebraic JavaScript](https://www.youtube.com/watch?v=9qhhcmABzSQ)
 - Brandon Dail - [Algebraic effects, Fibers, Coroutines Oh my!](https://www.youtube.com/watch?v=7GcrT0SBSnI)
 - Effekt Lang - [Effekt Lang](https://effekt-lang.org/)
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
