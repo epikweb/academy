@@ -113,7 +113,7 @@
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
 - Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=wmrbVjjBRXM)
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
-
+- Jakub Kozłowski - [Algebraic effects and handlers in the Effekt language](https://www.youtube.com/watch?v=vnrUIJMxZJ0&ab_channel=JakubKoz%C5%82owski)
 
 ## Analytics
 - David Fowler - [Cloud Data Management](https://dataschool.com/data-governance/)
