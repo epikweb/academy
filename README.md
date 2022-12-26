@@ -71,14 +71,6 @@
 - Jef Claes - [Evil by Design - Stateful Aggregates](https://www.youtube.com/watch?v=EmMvnB2v1GQ)
 - Martin Schimak - [Fact-Driven Journey](https://medium.com/plexiti/aggregates-and-sagas-are-process-owners-e8c8ba973da7)
 
-## Actor Model
-- Lightbend - [Akka - Replicated Event Sourcing](https://akka.io/blog/news/2020/09/09/replicated-event-sourcing-video)
-- Lightbend - [Akka - Replicated Event Sourcing - Architecture](https://www.youtube.com/watch?v=SuTPY5MxmUM)
-- Lightbend - [Akka - Replicated Event Sourcing - Modeling](https://www.youtube.com/watch?v=8PnJxTlOP6o)
-- Lightbend - [Akka Serverless JavaScript](https://developer.lightbend.com/docs/akka-serverless/javascript)
-- Vaughn Vernon - [The Language of Actors](https://www.youtube.com/watch?v=gHqxPV_lT_I)
-- Vaughn Vernon - [Reactive Messaging Patterns with the Actor Model](https://www.amazon.ca/Reactive-Messaging-Patterns-Actor-Model/dp/0133846830)
-- Alexey Zimarev - [DDD, Event Sourcing and Actors](https://www.youtube.com/watch?v=58_Ehl3oETY&ab_channel=KanDDDinsky)
 
 
 ## Functional Programming
@@ -114,6 +106,16 @@
 - Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=wmrbVjjBRXM)
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
 - Jakub Kozłowski - [Algebraic effects and handlers in the Effekt language](https://www.youtube.com/watch?v=vnrUIJMxZJ0&ab_channel=JakubKoz%C5%82owski)
+
+## Actor Model
+- Lightbend - [Akka - Replicated Event Sourcing](https://akka.io/blog/news/2020/09/09/replicated-event-sourcing-video)
+- Lightbend - [Akka - Replicated Event Sourcing - Architecture](https://www.youtube.com/watch?v=SuTPY5MxmUM)
+- Lightbend - [Akka - Replicated Event Sourcing - Modeling](https://www.youtube.com/watch?v=8PnJxTlOP6o)
+- Lightbend - [Akka Serverless JavaScript](https://developer.lightbend.com/docs/akka-serverless/javascript)
+- Vaughn Vernon - [The Language of Actors](https://www.youtube.com/watch?v=gHqxPV_lT_I)
+- Vaughn Vernon - [Reactive Messaging Patterns with the Actor Model](https://www.amazon.ca/Reactive-Messaging-Patterns-Actor-Model/dp/0133846830)
+- Alexey Zimarev - [DDD, Event Sourcing and Actors](https://www.youtube.com/watch?v=58_Ehl3oETY&ab_channel=KanDDDinsky)
+
 
 ## Analytics
 - David Fowler - [Cloud Data Management](https://dataschool.com/data-governance/)
