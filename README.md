@@ -90,9 +90,6 @@
 - Eric Elliott - [The Missing Introduction to React](https://www.youtube.com/watch?v=BgZWA1EAIY0)
 - Eric Elliott - [Event Sourcing vs. Redux](https://medium.com/@_ericelliott/the-command-pattern-event-sourcing-and-redux-are-all-different-architectures-but-they-all-3e36b70cbc60)
 - Eric Elliott - [JavaScript Monads Made Simple](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8)
-- Debasish Ghosh - [Functional and Reactive Domain Modeling ](https://www.manning.com/books/functional-and-reactive-domain-modeling)
-- Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=wmrbVjjBRXM)
-- Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
 - Debasish Ghosh - [DSLs in Action](https://www.manning.com/books/dsls-in-action)
 - Brian Lonsdorf - [Frontend Masters - Hardcore Functional Architecture](https://frontendmasters.com/courses/hardcore-js-patterns)
 - Brian Lonsdorf - [Free Monad Example](https://github.com/DrBoolean/freeky)
@@ -113,6 +110,10 @@
 ## Functional Programming - Algebraic Effects
 - Brandon Dail - [Algebraic effects, Fibers, Coroutines Oh my!](https://www.youtube.com/watch?v=7GcrT0SBSnI)
 - Effekt Lang - [Effekt Lang](https://effekt-lang.org/)
+- Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
+- Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=wmrbVjjBRXM)
+- Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
+
 
 ## Analytics
 - David Fowler - [Cloud Data Management](https://dataschool.com/data-governance/)
