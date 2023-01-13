@@ -55,6 +55,7 @@
 - Vadim Samokhin - [Wrong Ways of Defining Service Boundaries](https://medium.com/hackernoon/wrong-ways-of-defining-service-boundaries-d9e313007bcc)
 - Greg Young - [Versioning in an Event Sourced System](https://leanpub.com/esversioning/read)
 - Greg Young - [A Decade of DDD, CQRS, Event Sourcing](https://www.youtube.com/watch?v=LDW0QWie21s)
+- Greg Young - [EventStore - Projections (Bidding Application)](https://www.eventstore.com/blog/projections-intermission)
 - Matt Ho - [Serverless Event Sourcing with Go](https://www.youtube.com/watch?v=B-reKkB8L5Q)
 - Michiel Overeem - [The Dark Side of Event Sourcing](https://www.movereem.nl/files/2017SANER-eventsourcing.pdf)
 - Joris Kuipers - [Day 2 problems in CQRS and Event Sourcing](https://www.youtube.com/watch?v=73KxyTUU4nU)
