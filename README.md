@@ -83,6 +83,7 @@
 - Eric Elliott - [The Missing Introduction to React](https://www.youtube.com/watch?v=BgZWA1EAIY0)
 - Eric Elliott - [Event Sourcing vs. Redux](https://medium.com/@_ericelliott/the-command-pattern-event-sourcing-and-redux-are-all-different-architectures-but-they-all-3e36b70cbc60)
 - Eric Elliott - [JavaScript Monads Made Simple](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8)
+- Eric Elliott - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture)
 - Debasish Ghosh - [DSLs in Action](https://www.manning.com/books/dsls-in-action)
 - Brian Lonsdorf - [Frontend Masters - Hardcore Functional Architecture](https://frontendmasters.com/courses/hardcore-js-patterns)
 - Brian Lonsdorf - [Free Monad Example](https://github.com/DrBoolean/freeky)
