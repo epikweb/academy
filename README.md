@@ -238,6 +238,7 @@
 - Code Smells - [Feature Envy](https://refactoring.guru/smells/feature-envy)
 - Code Smells - [Inappropriate Intimacy](https://refactoring.guru/smells/inappropriate-intimacy)
 - Code Smells - [Middle Man](https://refactoring.guru/smells/middle-man)
+- Code Smells - [Primitive Obsession](https://refactoring.guru/smells/primitive-obsession)
 - Derek Comartin - [CodeOpinion Videos](https://www.youtube.com/watch?v=bxGkavGaEiM)
 - Sebastian Gebski - [State pattern, tech debt fertilizer](https://no-kill-switch.ghost.io/state-pattern-tech-debt-fertilizer/)
 - Kailash Nadh - [Scaling with common sense](https://zerodha.tech/blog/scaling-with-common-sense/)
