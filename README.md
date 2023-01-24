@@ -71,12 +71,12 @@
 - Vladimir Khorikov - [Should you Abstract the Database](https://enterprisecraftsmanship.com/posts/should-you-abstract-database)
 - Martin Thompson - [Event Log Architectures: when quality matters](https://www.youtube.com/watch?v=RlwO6CJbJjQ)
 
-
-## Quantum Theory / Operational Transformation / CRDT
+## Operational Transformation / CRDT
 - Wikipedia - [Effect Algebra](https://en.wikipedia.org/wiki/Effect_algebra)
 - David Barrett-Lennard - [Operational Transformation](https://cedanet.com.au/ceda/ot/ot.php)
 - David Barrett-Lennard - [Operational Transform Control Algorithms](https://cedanet.com.au/ceda/ot/ot.php](https://cedanet.com.au/ceda/ot/ot-control/))
 - Akka Lightbend - [Replicated Event Sourcing / CRDT command handler modeling](https://doc.akka.io/docs/akka/current/typed/replicated-eventsourcing.html)
+
 
 ## Domain Driven Design / CQRS / Event Sourcing
 - Eric Evans - [Domain Driven Design](https://www.amazon.ca/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=pd_lpo_1?pd_rd_i=0321125215&psc=1)
