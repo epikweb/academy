@@ -72,6 +72,11 @@
 - Martin Thompson - [Event Log Architectures: when quality matters](https://www.youtube.com/watch?v=RlwO6CJbJjQ)
 
 
+## Quantum Mechanics
+- Wikipedia - [Effect Algebra](https://en.wikipedia.org/wiki/Effect_algebra)
+- David Barrett-Lennard [Operational Transformation](https://cedanet.com.au/ceda/ot/ot.php)
+- David Barrett-Lennard [Operational Transform Control Algorithms]([https://cedanet.com.au/ceda/ot/ot.php](https://cedanet.com.au/ceda/ot/ot-control/))
+
 ## Domain Driven Design / CQRS / Event Sourcing
 - Eric Evans - [Domain Driven Design](https://www.amazon.ca/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=pd_lpo_1?pd_rd_i=0321125215&psc=1)
 - Adam Dymitruk - [Event Modeling Organization](https://eventmodeling.org/)
