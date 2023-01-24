@@ -75,6 +75,7 @@
 - Wikipedia - [Effect Algebra](https://en.wikipedia.org/wiki/Effect_algebra)
 - David Barrett-Lennard - [Operational Transformation](https://cedanet.com.au/ceda/ot/ot.php)
 - David Barrett-Lennard - [Operational Transform Control Algorithms](https://cedanet.com.au/ceda/ot/ot.php](https://cedanet.com.au/ceda/ot/ot-control/))
+- Flink - [Stateful Functions](https://flink.apache.org/stateful-functions.html)
 - Akka Lightbend - [Replicated Event Sourcing / CRDT command handler modeling](https://doc.akka.io/docs/akka/current/typed/replicated-eventsourcing.html)
 
 
