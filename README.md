@@ -59,6 +59,7 @@
 - David Barrett-Lennard - [Cedanet - Log structured store versus Write ahead logging](https://cedanet.com.au/ceda/libs/cxLss/lss-versus-wal.php)
 - David Barrett-Lennard - [Cedanet - The Data-Centric Principle](https://cedanet.com.au/ceda/data-centric-principle/data-centric-principle.php)
 - David Barrett-Lennard - [Cedanet - Driving variables through a complicated space](https://cedanet.com.au/ceda/constraints/point-on-circle.php)
+- David Barrett-Lennard - [Cedanet - Non-canonical representations](https://cedanet.com.au/ceda/constraints/non-canonical-representations.php)
 - Pat Helland - [Life beyond Distributed Transactions](http://cs.brown.edu/courses/cs227/archives/2012/papers/weaker/cidr07p15.pdf)
 - John Pradeep Vincent - [Log Structured Merge Trees](https://medium.com/swlh/log-structured-merge-trees-9c8e2bea89e8)
 - Greg Young - [How an EventStore actually works](https://www.youtube.com/watch?v=YUjO1wM0PZM)
@@ -75,7 +76,6 @@
 ## Relational Model
 - David Barrett-Lennard - [Cedanet - Nested relational database](https://cedanet.com.au/relational-model/nested-relational-databases.php)
 - David Barrett-Lennard - [Cedanet - Unique prime cartesian factorisation of a relation](https://cedanet.com.au/relational-model/unique-prime-Cartesian-factorisation-of-a-relation.php)
-- David Barrett-Lennard - [Cedanet - Non-canonical representations](https://cedanet.com.au/ceda/constraints/non-canonical-representations.php)
 - David Barrett-Lennard - [Cedanet - Relational model applications methodology](https://cedanet.com.au/relational-model/relational-application-methodology.php)
 
 ## Operational Transformation / CRDT
