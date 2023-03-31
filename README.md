@@ -71,6 +71,12 @@
 - Vladimir Khorikov - [Should you Abstract the Database](https://enterprisecraftsmanship.com/posts/should-you-abstract-database)
 - Martin Thompson - [Event Log Architectures: when quality matters](https://www.youtube.com/watch?v=RlwO6CJbJjQ)
 
+## Relational Model
+- David Barrett-Lennard - [Cedanet - Nested relational database](https://cedanet.com.au/relational-model/nested-relational-databases.php)
+- David Barrett-Lennard - [Cedanet - Unique prime cartesian factorisation of a relation](https://cedanet.com.au/relational-model/unique-prime-Cartesian-factorisation-of-a-relation.php)
+- David Barrett-Lennard - [Cedanet - Non-canonical representations](https://cedanet.com.au/ceda/constraints/non-canonical-representations.php)
+- David Barrett-Lenndard - [Cedanet - Relational model applications methodology](https://cedanet.com.au/relational-model/relational-application-methodology.php)
+
 ## Operational Transformation / CRDT
 - Wikipedia - [Effect Algebra](https://en.wikipedia.org/wiki/Effect_algebra)
 - David Barrett-Lennard - [Operational Transformation](https://cedanet.com.au/ceda/ot/ot.php)
