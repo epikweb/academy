@@ -75,7 +75,7 @@
 - David Barrett-Lennard - [Cedanet - Nested relational database](https://cedanet.com.au/relational-model/nested-relational-databases.php)
 - David Barrett-Lennard - [Cedanet - Unique prime cartesian factorisation of a relation](https://cedanet.com.au/relational-model/unique-prime-Cartesian-factorisation-of-a-relation.php)
 - David Barrett-Lennard - [Cedanet - Non-canonical representations](https://cedanet.com.au/ceda/constraints/non-canonical-representations.php)
-- David Barrett-Lenndard - [Cedanet - Relational model applications methodology](https://cedanet.com.au/relational-model/relational-application-methodology.php)
+- David Barrett-Lennard - [Cedanet - Relational model applications methodology](https://cedanet.com.au/relational-model/relational-application-methodology.php)
 
 ## Operational Transformation / CRDT
 - Wikipedia - [Effect Algebra](https://en.wikipedia.org/wiki/Effect_algebra)
