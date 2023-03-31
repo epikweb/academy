@@ -58,6 +58,7 @@
 - David Barrett-Lennard - [Cedanet - Log Structured Store (LSS)](https://cedanet.com.au/ceda/libs/cxLss/lss.php)
 - David Barrett-Lennard - [Cedanet - Log structured store versus Write ahead logging](https://cedanet.com.au/ceda/libs/cxLss/lss-versus-wal.php)
 - David Barrett-Lennard - [Cedanet - The Data-Centric Principle](https://cedanet.com.au/ceda/data-centric-principle/data-centric-principle.php)
+- David Barrett-Lennard - [Cedanet - Driving variables through a complicated space](https://cedanet.com.au/ceda/constraints/point-on-circle.php)
 - Pat Helland - [Life beyond Distributed Transactions](http://cs.brown.edu/courses/cs227/archives/2012/papers/weaker/cidr07p15.pdf)
 - John Pradeep Vincent - [Log Structured Merge Trees](https://medium.com/swlh/log-structured-merge-trees-9c8e2bea89e8)
 - Greg Young - [How an EventStore actually works](https://www.youtube.com/watch?v=YUjO1wM0PZM)
