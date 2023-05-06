@@ -52,6 +52,7 @@
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Service statelessness principle](https://cedanet.com.au/ceda/cache/)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Persist state machines](https://cedanet.com.au/antipatterns/persist-state-machines.php)
 - David Barrett-Lennard - [Cedanet - Producer/consumer with persistent queue (simple)](https://cedanet.com.au/ceda/messaging/persistent-queue.php)
+- David Barrett-Lennard - [Cedanet - Multiple producer and consumer generalisation of a persistent queue](https://cedanet.com.au/ceda/messaging/multiple-producer-consumer-generalisation.php)
 - David Barrett-Lennard - [Cedanet - Implementation of a Long running transaction](https://cedanet.com.au/ceda/messaging/saga.php)
 - David Barrett-Lennard - [Cedanet - Messaging done right](https://cedanet.com.au/ceda/messaging/messaging.php)
 - David Barrett-Lennard - [Cedanet - Approaches for high performance distributed workloads in CEDA](https://cedanet.com.au/antipatterns/high-performance-distributed-workloads-in-ceda.php)
