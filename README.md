@@ -1,8 +1,5 @@
 # 📚 Academy
-
-📚 A curated, categorized list of material that I found helpful to learn more about software development and computers.
-
-
+A database of learning material about software & computers
 
 ## Functional Programming
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
