@@ -256,6 +256,8 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - Anti-pattern - SOA/Microservices](https://cedanet.com.au/antipatterns/SOA.php)
 - Lin Clark - [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - Lin Clark - [Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
+- Lin Clark - [A crash course in memory management](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/)
 - Lin Clark - [A cartoon intro to ArrayBuffers and SharedArrayBuffers](https://hacks.mozilla.org/2017/06/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
+- Lin Clark - [Avoiding race conditions in SharedArrayBuffers with Atomics](https://hacks.mozilla.org/2017/06/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
 - Node.js - [WebAssembly System Interface](https://nodejs.org/api/wasi.html)
 - Render - [How to Build an Anycast Network](https://render.com/blog/how-to-build-an-anycast-network)
