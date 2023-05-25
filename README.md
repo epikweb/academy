@@ -204,8 +204,10 @@ A database of learning material about software & computers
 - CloudFlare - [Durable Objects](https://developers.cloudflare.com/workers/learning/using-durable-objects)
 - Wikipedia - [Anycast IP Protocol](https://en.wikipedia.org/wiki/Anycast)
 - AWS - [Global Accelerator](https://aws.amazon.com/global-accelerator/)
-- Hadean - [Rewriting the laws of cloud computing (removing middleware)](https://hadean.com/blog/rewriting-the-laws-of-cloud-computing-with-the-hadean-platform/)
-
+- [Hadean - Rewriting the laws of cloud computing (removing middleware)](https://hadean.com/blog/rewriting-the-laws-of-cloud-computing-with-the-hadean-platform/)
+- [HadeanOS & Aether Engine](https://resources.hadean.com/story/the-hadean-architecture-whitepaper/page/1)
+- [Hadean - Simulate](https://resources.hadean.com/story/hadean-simulate/page/1)
+- [Hadean - Muxer](https://hadean.com/wp-content/uploads/2022/01/Product-Datasheet-Muxer.pdf)
 
 ## Infrastructure
 - CloudPosse - [Geodesic](https://github.com/cloudposse/geodesic)
@@ -213,6 +215,7 @@ A database of learning material about software & computers
 - Gruntwork.io - [How to deploy a production-grade VPC on AWS](https://gruntwork.io/guides/networking/how-to-deploy-production-grade-vpc-aws/)
 - Gruntwork.io - [How to configure a production-grade AWS account structure](https://gruntwork.io/guides/foundations/how-to-configure-production-grade-aws-account-structure/)
 - Paul Hammant - [Cookie Cutter Scaling](https://paulhammant.com/2011/11/29/cookie-cutter-scaling/)
+- AWS - [Working with multicast](https://docs.aws.amazon.com/vpc/latest/tgw/working-with-multicast.html)
 
 
 ## Postgres
