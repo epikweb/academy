@@ -204,10 +204,10 @@ A database of learning material about software & computers
 - CloudFlare - [Durable Objects](https://developers.cloudflare.com/workers/learning/using-durable-objects)
 - Wikipedia - [Anycast IP Protocol](https://en.wikipedia.org/wiki/Anycast)
 - AWS - [Global Accelerator](https://aws.amazon.com/global-accelerator/)
-- [Hadean - Rewriting the laws of cloud computing (removing middleware)](https://hadean.com/blog/rewriting-the-laws-of-cloud-computing-with-the-hadean-platform/)
-- [HadeanOS & Aether Engine](https://resources.hadean.com/story/the-hadean-architecture-whitepaper/page/1)
-- [Hadean - Simulate](https://resources.hadean.com/story/hadean-simulate/page/1)
-- [Hadean - Muxer](https://hadean.com/wp-content/uploads/2022/01/Product-Datasheet-Muxer.pdf)
+- Hadean - [Rewriting the laws of cloud computing (removing middleware)](https://hadean.com/blog/rewriting-the-laws-of-cloud-computing-with-the-hadean-platform/)
+- Hadean - [HadeanOS & Aether Engine](https://resources.hadean.com/story/the-hadean-architecture-whitepaper/page/1)
+- Hadean - [Simulate](https://resources.hadean.com/story/hadean-simulate/page/1)
+- Hadean - [Muxer](https://hadean.com/wp-content/uploads/2022/01/Product-Datasheet-Muxer.pdf)
 
 ## Infrastructure
 - CloudPosse - [Geodesic](https://github.com/cloudposse/geodesic)
