@@ -257,3 +257,7 @@
 - Architecture Patterns - [Stage Driven Event Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch02.html)
 - Alon Pe'er - [Consumer Driven Contract Testing](https://www.youtube.com/watch?v=nQ0UGY2-YYI)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - SOA/Microservices](https://cedanet.com.au/antipatterns/SOA.php)
+- Mozilla - [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
+- Mozilla - [Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
+- Node.js - [WebAssembly System Interface](https://nodejs.org/api/wasi.html)
+- Render - [How to Build an Anycast Network](https://render.com/blog/how-to-build-an-anycast-network)
