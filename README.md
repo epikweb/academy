@@ -209,6 +209,7 @@ A database of learning material about software & computers
 - Hadean - [Simulate](https://resources.hadean.com/story/hadean-simulate/page/1)
 - Hadean - [Muxer](https://hadean.com/wp-content/uploads/2022/01/Product-Datasheet-Muxer.pdf)
 - Nick Fishman - [Node.js HTTP requests with gzip/deflate compression](https://nickfishman.com/post/49533681471/nodejs-http-requests-with-gzip-deflate-compression)
+- StormIT - [Amazon Route 53: Health Checks and DNS Failover](https://www.youtube.com/watch?v=Kxpl0ICzQV0)
 
 ## Infrastructure
 - CloudPosse - [Geodesic](https://github.com/cloudposse/geodesic)
