@@ -208,6 +208,7 @@ A database of learning material about software & computers
 - Hadean - [HadeanOS & Aether Engine](https://resources.hadean.com/story/the-hadean-architecture-whitepaper/page/1)
 - Hadean - [Simulate](https://resources.hadean.com/story/hadean-simulate/page/1)
 - Hadean - [Muxer](https://hadean.com/wp-content/uploads/2022/01/Product-Datasheet-Muxer.pdf)
+- Nick Fishman - [Node.js HTTP requests with gzip/deflate compression](https://nickfishman.com/post/49533681471/nodejs-http-requests-with-gzip-deflate-compression)
 
 ## Infrastructure
 - CloudPosse - [Geodesic](https://github.com/cloudposse/geodesic)
