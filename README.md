@@ -245,6 +245,7 @@ A database of learning material about software & computers
 ## Hardware
 - XDA - [PCI Express 5 (PCIe 5.0)](https://www.xda-developers.com/pcie-5/)
 - StreamGeeks - [What is Bandwidth?](https://www.youtube.com/watch?v=N4rWBZeAp4s)
+- [WD 850X 1TB Read/Write performance]([https://gyazo.com/ff4a3dd81adf44132f7538a07c6b2abb](https://i.gyazo.com/ff4a3dd81adf44132f7538a07c6b2abb.png))
 
 ## Miscellaneous
 - Martin Fowler - [Patterns of Enterprise Application Architecture](https://www.amazon.ca/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?crid=2Z4PNNZS8S5G2&dchild=1&keywords=patterns+of+enterprise+application+architecture&qid=1624062774&s=books&sprefix=patterns+of+enter%2Cstripbooks%2C153&sr=1-1)
