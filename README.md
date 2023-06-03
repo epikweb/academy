@@ -280,4 +280,4 @@ A database of learning material about software & computers
 - Lin Clark - [Avoiding race conditions in SharedArrayBuffers with Atomics](https://hacks.mozilla.org/2017/06/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
 - Node.js - [WebAssembly System Interface](https://nodejs.org/api/wasi.html)
 - Render - [How to Build an Anycast Network](https://render.com/blog/how-to-build-an-anycast-network)
-- Mozilla - [Structured Clone (multithreading woes)](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone)
+- Mozilla - [JavaScript Structured Clone (multithreading woes)](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone)
