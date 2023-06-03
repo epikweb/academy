@@ -63,6 +63,8 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - PSpace](https://cedanet.com.au/ceda/libs/cxPersistStore/PSpace/index.php)
 - David Barrett-Lennard - [Cedanet - PersistStore](https://cedanet.com.au/ceda/libs/cxPersistStore/PersistStore.php)
 - David Barrett-Lennard - [Cedanet - Working Set](https://cedanet.com.au/ceda/libs/cxOperation/WorkingSet.php)
+- David Barrett-Lennard - [Ceda - The database proposition](https://cedanet.com.au/relational-model/database-proposition.php)
+- David Barrett-Lennard - [Cedanet - The relvar proposition](https://cedanet.com.au/relational-model/relvar-proposition.php)
 - Pat Helland - [Life beyond Distributed Transactions](http://cs.brown.edu/courses/cs227/archives/2012/papers/weaker/cidr07p15.pdf)
 - John Pradeep Vincent - [Log Structured Merge Trees](https://medium.com/swlh/log-structured-merge-trees-9c8e2bea89e8)
 - Greg Young - [How an EventStore actually works](https://www.youtube.com/watch?v=YUjO1wM0PZM)
