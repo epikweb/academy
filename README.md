@@ -2,6 +2,7 @@
 A database of learning material about software & computers
 
 ## Database Design
+- David Barrett-Lennard - [Cedanet - The Data-Centric Principle](https://cedanet.com.au/ceda/data-centric-principle/data-centric-principle.php)
 - David Barrett-Lennard - [Cedanet - Sitemap](https://cedanet.com.au/site-map.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns](https://cedanet.com.au/antipatterns/)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Location transparency](https://cedanet.com.au/antipatterns/location-transparency.php)
@@ -22,7 +23,6 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - Approaches for high performance distributed workloads in CEDA](https://cedanet.com.au/antipatterns/high-performance-distributed-workloads-in-ceda.php)
 - David Barrett-Lennard - [Cedanet - Log Structured Store (LSS)](https://cedanet.com.au/ceda/libs/cxLss/lss.php)
 - David Barrett-Lennard - [Cedanet - Log structured store versus Write ahead logging](https://cedanet.com.au/ceda/libs/cxLss/lss-versus-wal.php)
-- David Barrett-Lennard - [Cedanet - The Data-Centric Principle](https://cedanet.com.au/ceda/data-centric-principle/data-centric-principle.php)
 - David Barrett-Lennard - [Cedanet - Driving variables through a complicated space](https://cedanet.com.au/ceda/constraints/point-on-circle.php)
 - David Barrett-Lennard - [Cedanet - Non-canonical representations](https://cedanet.com.au/ceda/constraints/non-canonical-representations.php)
 - David Barrett-Lennard - [Cedanet - CSpace](https://cedanet.com.au/ceda/libs/cxObject/cspace/CSpace.php)
