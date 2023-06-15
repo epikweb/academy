@@ -32,6 +32,8 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - Working Set](https://cedanet.com.au/ceda/libs/cxOperation/WorkingSet.php)
 - David Barrett-Lennard - [Ceda - The database proposition](https://cedanet.com.au/relational-model/database-proposition.php)
 - David Barrett-Lennard - [Cedanet - The relvar proposition](https://cedanet.com.au/relational-model/relvar-proposition.php)
+- David Barrett-Lennard - [Cedanet - Incremental computing on the derived variables](https://cedanet.com.au/ceda/constraints/incremental-computing.php)
+- Materialize - [Incremental Computation in the Database](https://materialize.com/guides/incremental-computation/)
 - Wikipedia - [Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 - Wikipedia - [Hasse diagram](https://en.wikipedia.org/wiki/Hasse_diagram)
 - Fsyncgate - [Postgres/WAL with fsync reliance](https://danluu.com/fsyncgate/)
