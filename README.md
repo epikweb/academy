@@ -31,7 +31,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - PersistStore](https://cedanet.com.au/ceda/libs/cxPersistStore/PersistStore.php)
 - David Barrett-Lennard - [Cedanet - Working Set](https://cedanet.com.au/ceda/libs/cxOperation/WorkingSet.php)
 - David Barrett-Lennard - [Ceda - The database proposition](https://cedanet.com.au/relational-model/database-proposition.php)
-- David Barrett-Lennard - [Cedanet - The relvar proposition](https://cedanet.com.au/relational-model/relvar-proposition.php)=
+- David Barrett-Lennard - [Cedanet - The relvar proposition](https://cedanet.com.au/relational-model/relvar-proposition.php)
 - Wikipedia - [Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 - Wikipedia - [Hasse diagram](https://en.wikipedia.org/wiki/Hasse_diagram)
 - Fsyncgate - [Postgres/WAL with fsync reliance](https://danluu.com/fsyncgate/)
