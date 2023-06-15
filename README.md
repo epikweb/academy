@@ -32,6 +32,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Ceda - The database proposition](https://cedanet.com.au/relational-model/database-proposition.php)
 - David Barrett-Lennard - [Cedanet - The relvar proposition](https://cedanet.com.au/relational-model/relvar-proposition.php)
 - Wikipedia - [Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+- Wikipedia - [Hasse diagram](https://en.wikipedia.org/wiki/Hasse_diagram)
 - Fsyncgate - [Postgres/WAL with fsync reliance](https://danluu.com/fsyncgate/)
 - Pat Helland - [Life beyond Distributed Transactions](http://cs.brown.edu/courses/cs227/archives/2012/papers/weaker/cidr07p15.pdf)
 - John Pradeep Vincent - [Log Structured Merge Trees](https://medium.com/swlh/log-structured-merge-trees-9c8e2bea89e8)
