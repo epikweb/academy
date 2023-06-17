@@ -4,6 +4,7 @@ A database of learning material about software & computers
 ## Database Design
 - David Barrett-Lennard - [Cedanet - The Data-Centric Principle](https://cedanet.com.au/ceda/data-centric-principle/data-centric-principle.php)
 - David Barrett-Lennard - [Cedanet - Logical independence](https://cedanet.com.au/relational-model/logical-independence.php)
+- David Barrett-Lennard - [Cedanet - Dependency Graph System (DGS)](https://cedanet.com.au/ceda/libs/cxObject/dgs/)
 - David Barrett-Lennard - [Cedanet - Sitemap](https://cedanet.com.au/site-map.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns](https://cedanet.com.au/antipatterns/)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Excessive frameworks](https://cedanet.com.au/antipatterns/excessive-frameworks.php)
