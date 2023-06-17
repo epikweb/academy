@@ -6,6 +6,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - Logical independence](https://cedanet.com.au/relational-model/logical-independence.php)
 - David Barrett-Lennard - [Cedanet - Sitemap](https://cedanet.com.au/site-map.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns](https://cedanet.com.au/antipatterns/)
+- David Barrett-Lennard - [Cedanet - Anti-pattern - Excessive frameworks](https://cedanet.com.au/antipatterns/excessive-frameworks.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Location transparency](https://cedanet.com.au/antipatterns/location-transparency.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Advanced messaging systems](https://cedanet.com.au/antipatterns/advanced-messaging-systems.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Inadequate Persistence System](https://cedanet.com.au/antipatterns/inadequate-persistence-system.php)
