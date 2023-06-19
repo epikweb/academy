@@ -290,3 +290,4 @@ A database of learning material about software & computers
 - Node.js - [WebAssembly System Interface](https://nodejs.org/api/wasi.html)
 - Render - [How to Build an Anycast Network](https://render.com/blog/how-to-build-an-anycast-network)
 - Mozilla - [JavaScript Structured Clone (multithreading woes)](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone)
+- ASCCI Conversion Table - [ASCII Conversion Chart](https://web.alfredstate.edu/faculty/weimandn/miscellaneous/ascii/ascii_index.html)
