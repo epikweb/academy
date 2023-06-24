@@ -53,6 +53,7 @@ A database of learning material about software & computers
 - Vladimir Khorikov - [Should you Abstract the Database](https://enterprisecraftsmanship.com/posts/should-you-abstract-database)
 - Martin Thompson - [Event Log Architectures: when quality matters](https://www.youtube.com/watch?v=RlwO6CJbJjQ)
 - Martin Thompson - [High performance alternative to bounded queues for exchanging data between concurrent threads](https://lmax-exchange.github.io/disruptor/disruptor.html)
+- Computerphile - [Endianness Explained With an Egg](https://www.youtube.com/watch?v=NcaiHcBvDR4)
 
 ## Relational Model
 - David Barrett-Lennard - [Cedanet - Nested relational database](https://cedanet.com.au/relational-model/nested-relational-databases.php)
