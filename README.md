@@ -215,6 +215,7 @@ A database of learning material about software & computers
 - Chris Conway - [Goal-Oriented Action Planning: Ten Years of AI Programming](https://www.youtube.com/watch?v=gm7K68663rA)
 - AI and Games - [The AI of Horizon Zero Dawn | Part 1: Rise of the Machines](https://www.youtube.com/watch?v=XxuSFBVQULY)
 - AI and Games - [The AI of Horizon Zero Dawn | Part 2: Metal Militia | AI and Games](https://www.youtube.com/watch?v=9RRjM1yNvy4)
+- Eric Elliott - [SudoLang: A Powerful Pseudocode Programming Language for LLMs](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b)
 
 
 ## Edge Compute
