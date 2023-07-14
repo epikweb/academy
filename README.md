@@ -138,6 +138,7 @@ A database of learning material about software & computers
 - Vladimir Khorikov - [Refactoring from Anemic Domain Model](https://www.pluralsight.com/courses/refactoring-anemic-domain-model)
 - Vladimir Khorikov - [Applying Functional Principles in C#](https://www.pluralsight.com/courses/csharp-applying-functional-principles)
 - Vladimir Khorikov - [Unit Testing Principles](https://www.amazon.ca/Unit-Testing-Principles-Practices-Patterns/dp/1617296279/ref=sr_1_1?dchild=1&keywords=unit+testing+principles&qid=1624062808&s=books&sr=1-1)
+- Vladimir Khorikov - [Partially initialized entities anti-pattern](https://enterprisecraftsmanship.com/posts/partially-initialized-entities-anti-pattern/)
 - Vladik Khononov - [Untangling Microservices](https://vladikk.com/2020/04/09/untangling-microservices/)
 - Vladik Khononov - [Tackling Complexity in CQRS](https://vladikk.com/2017/03/20/tackling-complexity-in-cqrs/)
 - Vladik Khononov - [Bounded Contexts vs Microservices](https://vladikk.com/2018/01/21/bounded-contexts-vs-microservices/)
