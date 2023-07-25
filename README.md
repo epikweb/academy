@@ -20,6 +20,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Service statelessness principle](https://cedanet.com.au/ceda/cache/)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Persist state machines](https://cedanet.com.au/antipatterns/persist-state-machines.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Multiplexing](https://cedanet.com.au/antipatterns/multiplexing.php)
+- David Barrett-Lennard - [Cedanet - Anti-pattern - Unnecessary persistence](https://cedanet.com.au/antipatterns/unnecessary-persistence.php)
 - David Barrett-Lennard - [Cedanet - Producer/consumer with persistent queue (simple)](https://cedanet.com.au/ceda/messaging/persistent-queue.php)
 - David Barrett-Lennard - [Cedanet - Multiple producer and consumer generalisation of a persistent queue](https://cedanet.com.au/ceda/messaging/multiple-producer-consumer-generalisation.php)
 - David Barrett-Lennard - [Cedanet - Implementation of a Long running transaction](https://cedanet.com.au/ceda/messaging/saga.php)
