@@ -19,6 +19,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Kafka](https://cedanet.com.au/antipatterns/kafka.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Service statelessness principle](https://cedanet.com.au/ceda/cache/)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Persist state machines](https://cedanet.com.au/antipatterns/persist-state-machines.php)
+- David Barrett-Lennard - [Cedanet - Anti-pattern - State machine instead of data-type](https://cedanet.com.au/antipatterns/state-machine-instead-of-data-type.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Multiplexing](https://cedanet.com.au/antipatterns/multiplexing.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Unnecessary persistence](https://cedanet.com.au/antipatterns/unnecessary-persistence.php)
 - David Barrett-Lennard - [Cedanet - Producer/consumer with persistent queue (simple)](https://cedanet.com.au/ceda/messaging/persistent-queue.php)
