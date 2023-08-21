@@ -2,6 +2,7 @@
 A database of learning material about software & computers
 
 ## Database Design
+- David Barrett-Lennard - [Cedanet - Anti-pattern - Advanced messaging systems](https://cedanet.com.au/antipatterns/advanced-messaging-systems.php)
 - David Barrett-Lennard - [Cedanet - The Data-Centric Principle](https://cedanet.com.au/ceda/data-centric-principle/data-centric-principle.php)
 - David Barrett-Lennard - [Cedanet - Logical independence](https://cedanet.com.au/relational-model/logical-independence.php)
 - David Barrett-Lennard - [Cedanet - The lattice of database states](https://cedanet.com.au/ceda/ot/lattice/)
@@ -10,7 +11,6 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - Anti-patterns](https://cedanet.com.au/antipatterns/)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Excessive frameworks](https://cedanet.com.au/antipatterns/excessive-frameworks.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Location transparency](https://cedanet.com.au/antipatterns/location-transparency.php)
-- David Barrett-Lennard - [Cedanet - Anti-pattern - Advanced messaging systems](https://cedanet.com.au/antipatterns/advanced-messaging-systems.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Inadequate Persistence System](https://cedanet.com.au/antipatterns/inadequate-persistence-system.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Orthogonal persistence](https://cedanet.com.au/antipatterns/orthogonal-persistence.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Interleaving computation and I/O](https://cedanet.com.au/antipatterns/interleaving-computation-and-io.php)
