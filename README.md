@@ -40,6 +40,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - Incremental computing on the derived variables](https://cedanet.com.au/ceda/constraints/incremental-computing.php)
 - Anton	Churyumov - [Byteball - A	Decentralized	System	for	Storage	and	Transfer of Value (DAG + Skip list)](https://obyte.org/Byteball.pdf)
 - Materialize - [Incremental Computation in the Database](https://materialize.com/guides/incremental-computation/)
+- Tef - [How do you cut a monolith in half](https://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half)
 - Wikipedia - [Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 - Wikipedia - [Hasse diagram](https://en.wikipedia.org/wiki/Hasse_diagram)
 - Fsyncgate - [Postgres/WAL with fsync reliance](https://danluu.com/fsyncgate/)
