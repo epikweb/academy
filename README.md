@@ -60,6 +60,8 @@ A database of learning material about software & computers
 - Martin Thompson - [High performance alternative to bounded queues for exchanging data between concurrent threads](https://lmax-exchange.github.io/disruptor/disruptor.html)
 - Computerphile - [Endianness Explained With an Egg](https://www.youtube.com/watch?v=NcaiHcBvDR4)
 - Ronald Chen - [JavaScript Mutex](https://blog.battlefy.com/limiting-concurrency-with-promises)
+- Armon Dadgar - [Radix Trees, Transactions, and MemDB](https://speakerdeck.com/armon/radix-trees-transactions-and-memdb)
+- Hashicorp - [https://developer.hashicorp.com/consul/docs/architecture/consensus](Consul Consensus Protocol)
 
 ## Relational Model
 - David Barrett-Lennard - [Cedanet - Nested relational database](https://cedanet.com.au/relational-model/nested-relational-databases.php)
