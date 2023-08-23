@@ -62,6 +62,7 @@ A database of learning material about software & computers
 - Ronald Chen - [JavaScript Mutex](https://blog.battlefy.com/limiting-concurrency-with-promises)
 - Armon Dadgar - [Radix Trees, Transactions, and MemDB](https://speakerdeck.com/armon/radix-trees-transactions-and-memdb)
 - Hashicorp - [https://developer.hashicorp.com/consul/docs/architecture/consensus](Consul Consensus Protocol)
+- Cburch - [B+Tree](http://www.cburch.com/cs/340/reading/btree/index.html)
 
 ## Relational Model
 - David Barrett-Lennard - [Cedanet - Nested relational database](https://cedanet.com.au/relational-model/nested-relational-databases.php)
