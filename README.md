@@ -61,7 +61,7 @@ A database of learning material about software & computers
 - Computerphile - [Endianness Explained With an Egg](https://www.youtube.com/watch?v=NcaiHcBvDR4)
 - Ronald Chen - [JavaScript Mutex](https://blog.battlefy.com/limiting-concurrency-with-promises)
 - Armon Dadgar - [Radix Trees, Transactions, and MemDB](https://speakerdeck.com/armon/radix-trees-transactions-and-memdb)
-- Hashicorp - [https://developer.hashicorp.com/consul/docs/architecture/consensus](Consul Consensus Protocol)
+- Hashicorp - [Consul Consensus Protocol](https://developer.hashicorp.com/consul/docs/architecture/consensus)
 - Cburch - [B+Tree](http://www.cburch.com/cs/340/reading/btree/index.html)
 
 ## Relational Model
