@@ -63,6 +63,7 @@ A database of learning material about software & computers
 - Armon Dadgar - [Radix Trees, Transactions, and MemDB](https://speakerdeck.com/armon/radix-trees-transactions-and-memdb)
 - Hashicorp - [Consul Consensus Protocol](https://developer.hashicorp.com/consul/docs/architecture/consensus)
 - Cburch - [B+Tree](http://www.cburch.com/cs/340/reading/btree/index.html)
+- ScaleOutSoftware - [The Foundation: In-Memory Data Grids](https://www.scaleoutsoftware.com/architecture/)
 
 ## Relational Model
 - David Barrett-Lennard - [Cedanet - Nested relational database](https://cedanet.com.au/relational-model/nested-relational-databases.php)
