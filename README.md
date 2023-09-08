@@ -305,3 +305,4 @@ A database of learning material about software & computers
 - Render - [How to Build an Anycast Network](https://render.com/blog/how-to-build-an-anycast-network)
 - Mozilla - [JavaScript Structured Clone (multithreading woes)](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone)
 - ASCCI Conversion Table - [ASCII Conversion Chart](https://web.alfredstate.edu/faculty/weimandn/miscellaneous/ascii/ascii_index.html)
+- Vladimir Khorikov - [Styles of unit testing](https://enterprisecraftsmanship.com/posts/styles-of-unit-testing/)
