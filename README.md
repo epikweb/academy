@@ -107,6 +107,7 @@ A database of learning material about software & computers
 - Effekt Lang - [Effekt Lang](https://effekt-lang.org/)
 - Jakub Kozłowski - [Algebraic effects and handlers in the Effekt language](https://www.youtube.com/watch?v=vnrUIJMxZJ0&ab_channel=JakubKoz%C5%82owski)
 - Maciej Piróg - [Effect Handlers: A New Approach to Computational Effects - Lambda Days 2020](https://www.youtube.com/watch?v=6lv_E-CjGzg)
+- Sergey Ignatchenko - [Deterministic Components for Interactive Distributed Systems – with Transcript](http://ithare.com/deterministic-components-for-interactive-distributed-systems-with-transcript/2/)
 
 
 
