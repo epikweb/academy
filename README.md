@@ -110,6 +110,7 @@ A database of learning material about software & computers
 - Maciej Piróg - [Effect Handlers: A New Approach to Computational Effects - Lambda Days 2020](https://www.youtube.com/watch?v=6lv_E-CjGzg)
 - Sergey Ignatchenko - [Deterministic Components for Interactive Distributed Systems – with Transcript](http://ithare.com/deterministic-components-for-interactive-distributed-systems-with-transcript/2/)
 - Dan Abramov - [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
+- Ithare - [Client-Side. Client Architecture Diagram, Threads, and Game Loop](http://ithare.com/chapter-vd-modular-architecture-client-side-client-architecture-diagram-threads-and-game-loop/)
 
 
 
