@@ -68,6 +68,7 @@ A database of learning material about software & computers
 - ScaleOutSoftware - [The Foundation: In-Memory Data Grids](https://www.scaleoutsoftware.com/architecture/)
 - Yves Lorphelin - [Requirements for the storage of events](https://www.eventstore.com/blog/requirements-for-the-storage-of-events)
 - Martin Kleppman - [Martin Kleppmann — Event Sourcing and Stream Processing at Scale (Netflix/LinkedIn volumes)](https://www.youtube.com/watch?v=avi-TZI9t2I&ab_channel=Domain-DrivenDesignEurope)
+- TimescaleDB - [Hierarchical continuous aggregates](https://docs.timescale.com/use-timescale/latest/continuous-aggregates/hierarchical-continuous-aggregates/)
 
 ## Relational Model
 - David Barrett-Lennard - [Cedanet - Nested relational database](https://cedanet.com.au/relational-model/nested-relational-databases.php)
