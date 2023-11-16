@@ -274,6 +274,7 @@ A database of learning material about software & computers
 - Frits Hoogland - [How to enable SSL for pgbouncer](https://dev.to/yugabyte/how-to-enable-ssl-for-postgres-connections-5321)
 - Quinn Weaver - [Change autovacuum_freeze_max_age without a restart](https://hacksoclock.blogspot.com/2017/03/change-autovacuumfreezemaxage-without.html)
 - Andrew Dunstan - [Partitioning a large table without a long running lock](https://www.2ndquadrant.com/en/blog/partitioning-a-large-table-without-a-long-running-lock/)
+- Percona - [Find the WAL Count Between Two Segments in PostgreSQL](https://www.percona.com/blog/find-the-wal-count-between-two-segments-in-postgresql)
 
 ## Graphics
 - Xem - [WebGL Tutorial - Part 1](https://xem.github.io/articles/webgl-guide.html)
