@@ -3,8 +3,10 @@ A database of learning material about software & computers
 
 ## Database Design
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Advanced messaging systems](https://cedanet.com.au/antipatterns/advanced-messaging-systems.php)
-- David Barrett-Lennard - [Cedanet - The Data-Centric Principle](https://cedanet.com.au/ceda/data-centric-principle/data-centric-principle.php)
 - David Barrett-Lennard - [Cedanet - Logical independence](https://cedanet.com.au/relational-model/logical-independence.php)
+- David Barrett-Lennard - [Cedanet - Not materialising the persistent queue](https://cedanet.com.au/ceda/messaging/not-materialising-the-persistent-queue.php)
+- David Barrett-Lennard - [Cedanet - Producer/consumer with persistent queue (simple)](https://cedanet.com.au/ceda/messaging/persistent-queue.php)
+- David Barrett-Lennard - [Cedanet - The Data-Centric Principle](https://cedanet.com.au/ceda/data-centric-principle/data-centric-principle.php)
 - David Barrett-Lennard - [Cedanet - The lattice of database states](https://cedanet.com.au/ceda/ot/lattice/)
 - David Barrett-Lennard - [Cedanet - Dependency Graph System (DGS)](https://cedanet.com.au/ceda/libs/cxObject/dgs/)
 - David Barrett-Lennard - [Cedanet - Sitemap](https://cedanet.com.au/site-map.php)
@@ -23,7 +25,6 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - Anti-pattern - State machine instead of data-type](https://cedanet.com.au/antipatterns/state-machine-instead-of-data-type.php)
 - David Barrett-Lennard - [Cedanet - Multiplexing](https://cedanet.com.au/antipatterns/multiplexing.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Unnecessary persistence](https://cedanet.com.au/antipatterns/unnecessary-persistence.php)
-- David Barrett-Lennard - [Cedanet - Producer/consumer with persistent queue (simple)](https://cedanet.com.au/ceda/messaging/persistent-queue.php)
 - David Barrett-Lennard - [Cedanet - Multiple producer and consumer generalisation of a persistent queue](https://cedanet.com.au/ceda/messaging/multiple-producer-consumer-generalisation.php)
 - David Barrett-Lennard - [Cedanet - Implementation of a Long running transaction](https://cedanet.com.au/ceda/messaging/saga.php)
 - David Barrett-Lennard - [Cedanet - Messaging done right](https://cedanet.com.au/ceda/messaging/messaging.php)
@@ -39,7 +40,6 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Ceda - The database proposition](https://cedanet.com.au/relational-model/database-proposition.php)
 - David Barrett-Lennard - [Cedanet - The relvar proposition](https://cedanet.com.au/relational-model/relvar-proposition.php)
 - David Barrett-Lennard - [Cedanet - Incremental computing on the derived variables](https://cedanet.com.au/ceda/constraints/incremental-computing.php)
-- David Barrett-Lenndard - [Cedanet - Not materialising the persistent queue](https://cedanet.com.au/ceda/messaging/not-materialising-the-persistent-queue.php)
 - Wikipedia - [End-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle)
 - Anton	Churyumov - [Byteball - A	Decentralized	System	for	Storage	and	Transfer of Value (DAG + Skip list)](https://obyte.org/Byteball.pdf)
 - Materialize - [Incremental Computation in the Database](https://materialize.com/guides/incremental-computation/)
