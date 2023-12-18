@@ -10,6 +10,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - The Data-Centric Principle](https://cedanet.com.au/ceda/data-centric-principle/data-centric-principle.php)
 - David Barrett-Lennard - [Cedanet - The lattice of database states](https://cedanet.com.au/ceda/ot/lattice/)
 - David Barrett-Lennard - [Cedanet - Dependency Graph System (DGS)](https://cedanet.com.au/ceda/libs/cxObject/dgs/)
+- David Barrett-Lennard - [Cedanet - Persistent object trees](https://cedanet.com.au/ceda/libs/cxPersistStore/persistent-object-trees.php)
 - David Barrett-Lennard - [Cedanet - Sitemap](https://cedanet.com.au/site-map.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns](https://cedanet.com.au/antipatterns/)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Excessive frameworks](https://cedanet.com.au/antipatterns/excessive-frameworks.php)
