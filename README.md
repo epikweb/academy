@@ -21,7 +21,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Interleaving computation and I/O](https://cedanet.com.au/antipatterns/interleaving-computation-and-io.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - More is less](https://cedanet.com.au/antipatterns/more-is-less.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - SOA](https://cedanet.com.au/antipatterns/SOA.php)
-- David Barrett-Lennard - [Cedanet - Kafka](https://cedanet.com.au/antipatterns/kafka.php)
+- David Barrett-Lennard - [Cedanet - Anti-pattern - Kafka](https://cedanet.com.au/antipatterns/kafka.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Service statelessness principle](https://cedanet.com.au/ceda/cache/)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Persist state machines](https://cedanet.com.au/antipatterns/persist-state-machines.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - State machine instead of data-type](https://cedanet.com.au/antipatterns/state-machine-instead-of-data-type.php)
