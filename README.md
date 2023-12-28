@@ -114,7 +114,7 @@ A database of learning material about software & computers
 - Sergey Ignatchenko - [Deterministic Components for Interactive Distributed Systems – with Transcript](http://ithare.com/deterministic-components-for-interactive-distributed-systems-with-transcript/2/)
 - Sergey Ignatchenko - [Facebook/Uber/Netflix 500B single box](http://ithare.com/multi-coring-and-non-blocking-instead-of-multi-threading-with-a-script/3/)
 - Sergey Ignatchenko - [CppCon 2017: Sergey Ignatchenko “Ways to Handle Non-blocking Returns in Message-passing Programs...”](https://www.youtube.com/watch?v=6lXUrvlMXNU)
-- TrinityCore - [OO Callback style CPS (Take 3 of above)](https://github.com/TrinityCore/TrinityCore/blob/master/src/server/game/Scripting/ScriptMgr.cpp)
+- TrinityCore - [OO Callback style CPS (Take 3 of above)](https://github.com/TrinityCore/TrinityCore/blob/master/src/server/game/Scripting/ScriptMgr.cpp#L1946)
 - Dan Abramov - [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
 - Ithare - [Client-Side. Client Architecture Diagram, Threads, and Game Loop](http://ithare.com/chapter-vd-modular-architecture-client-side-client-architecture-diagram-threads-and-game-loop/)
 - Fabio Lavella - [Programs as values](https://systemfw.org/posts/programs-as-values-I.html)
