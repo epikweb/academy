@@ -120,6 +120,7 @@ A database of learning material about software & computers
 - Ithare - [Client-Side. Client Architecture Diagram, Threads, and Game Loop](http://ithare.com/chapter-vd-modular-architecture-client-side-client-architecture-diagram-threads-and-game-loop/)
 - Fabio Lavella - [Programs as values](https://systemfw.org/posts/programs-as-values-I.html)
 - UnisonLang - [UnisonLang](https://www.unison-lang.org/docs/the-big-idea/)
+- Daniel Westheide - [Lambda World 2018 - The Complexity Trap: Think Before You Leap](https://www.youtube.com/watch?v=OXP-sUS6ffE)
 
 
 ## Operational Transformation / CRDT
