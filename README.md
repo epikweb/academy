@@ -32,6 +32,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - Approaches for high performance distributed workloads in CEDA](https://cedanet.com.au/antipatterns/high-performance-distributed-workloads-in-ceda.php)
 - David Barrett-Lennard - [Cedanet - Log Structured Store (LSS)](https://cedanet.com.au/ceda/libs/cxLss/lss.php)
 - David Barrett-Lennard - [Cedanet - Log structured store versus Write ahead logging](https://cedanet.com.au/ceda/libs/cxLss/lss-versus-wal.php)
+- David Barrett-Lennard - [Cedanet - CEDA LSS versus Oracle BerkeleyDB](https://cedanet.com.au/ceda/libs/cxLss/performance/lss-versus-berkeleyDB.php)
 - David Barrett-Lennard - [Cedanet - Driving variables through a complicated space](https://cedanet.com.au/ceda/constraints/point-on-circle.php)
 - David Barrett-Lennard - [Cedanet - Non-canonical representations](https://cedanet.com.au/ceda/constraints/non-canonical-representations.php)
 - David Barrett-Lennard - [Cedanet - CSpace](https://cedanet.com.au/ceda/libs/cxObject/cspace/CSpace.php)
