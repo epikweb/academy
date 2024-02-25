@@ -43,6 +43,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Ceda - The database proposition](https://cedanet.com.au/relational-model/database-proposition.php)
 - David Barrett-Lennard - [Cedanet - The relvar proposition](https://cedanet.com.au/relational-model/relvar-proposition.php)
 - David Barrett-Lennard - [Cedanet - Incremental computing on the derived variables](https://cedanet.com.au/ceda/constraints/incremental-computing.php)
+- Edgar F. Codd - [Codd's 12 rules](https://en.wikipedia.org/wiki/Codd%27s_12_rules)
 - αλεx π - [Disk IO - O_DIRECT](https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017)
 - Wikipedia - [End-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle)
 - Anton	Churyumov - [Byteball - A	Decentralized	System	for	Storage	and	Transfer of Value (DAG + Skip list)](https://obyte.org/Byteball.pdf)
