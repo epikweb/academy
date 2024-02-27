@@ -46,6 +46,8 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - Codd's theorem](https://cedanet.com.au/relational-model/codds-theorem.php)
 - Edgar F. Codd - [Codd's 12 rules](https://en.wikipedia.org/wiki/Codd%27s_12_rules)
 - Edgar F. Codd - [A Relational Model of Data for Large Shared Data Banks](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
+- Tigerbeetle - [LSM](https://docs.tigerbeetle.com/internals/lsm)
+- Tigerbeetle - [Data File](https://docs.tigerbeetle.com/internals/data_file)
 - αλεx π - [Disk IO - O_DIRECT](https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017)
 - Wikipedia - [End-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle)
 - Anton	Churyumov - [Byteball - A	Decentralized	System	for	Storage	and	Transfer of Value (DAG + Skip list)](https://obyte.org/Byteball.pdf)
