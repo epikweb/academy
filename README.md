@@ -45,7 +45,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - The relvar proposition](https://cedanet.com.au/relational-model/relvar-proposition.php)
 - David Barrett-Lennard - [Cedanet - Incremental computing on the derived variables](https://cedanet.com.au/ceda/constraints/incremental-computing.php)
 - David Barrett-Lennard - [Cedanet - Codd's theorem](https://cedanet.com.au/relational-model/codds-theorem.php)
-- David Barrett-Lenndard - [Cedanet - Selective undo](https://cedanet.com.au/ceda/ot/selective-undo.php)
+- David Barrett-Lennard - [Cedanet - Selective undo (Shuffle sort)](https://cedanet.com.au/ceda/ot/selective-undo.php)
 - David Barrett-Lennard - [Cedanet - Nested relational database](https://cedanet.com.au/relational-model/nested-relational-databases.php)
 - David Barrett-Lennard - [Cedanet - Unique prime cartesian factorisation of a relation](https://cedanet.com.au/relational-model/unique-prime-Cartesian-factorisation-of-a-relation.php)
 - David Barrett-Lennard - [Cedanet - Relational model applications methodology](https://cedanet.com.au/relational-model/relational-application-methodology.php)
