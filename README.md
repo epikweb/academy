@@ -25,6 +25,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Service statelessness principle](https://cedanet.com.au/ceda/cache/)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Persist state machines](https://cedanet.com.au/antipatterns/persist-state-machines.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - State machine instead of data-type](https://cedanet.com.au/antipatterns/state-machine-instead-of-data-type.php)
+- David Barrett-Lennard - [Cedanet - Anti-pattern - SOA/Microservices](https://cedanet.com.au/antipatterns/SOA.php)
 - David Barrett-Lennard - [Cedanet - Multiplexing](https://cedanet.com.au/antipatterns/multiplexing.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Unnecessary persistence](https://cedanet.com.au/antipatterns/unnecessary-persistence.php)
 - David Barrett-Lennard - [Cedanet - Multiple producer and consumer generalisation of a persistent queue](https://cedanet.com.au/ceda/messaging/multiple-producer-consumer-generalisation.php)
@@ -44,6 +45,16 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - The relvar proposition](https://cedanet.com.au/relational-model/relvar-proposition.php)
 - David Barrett-Lennard - [Cedanet - Incremental computing on the derived variables](https://cedanet.com.au/ceda/constraints/incremental-computing.php)
 - David Barrett-Lennard - [Cedanet - Codd's theorem](https://cedanet.com.au/relational-model/codds-theorem.php)
+- David Barrett-Lenndard - [Cedanet - Selective undo](https://cedanet.com.au/ceda/ot/selective-undo.php)
+- David Barrett-Lennard - [Cedanet - Nested relational database](https://cedanet.com.au/relational-model/nested-relational-databases.php)
+- David Barrett-Lennard - [Cedanet - Unique prime cartesian factorisation of a relation](https://cedanet.com.au/relational-model/unique-prime-Cartesian-factorisation-of-a-relation.php)
+- David Barrett-Lennard - [Cedanet - Relational model applications methodology](https://cedanet.com.au/relational-model/relational-application-methodology.php)
+- David Barrett-Lennard - [Operational Transformation](https://cedanet.com.au/ceda/ot/ot.php)
+- David Barrett-Lennard - [Operational Transform Control Algorithms](https://cedanet.com.au/ceda/ot/ot.php](https://cedanet.com.au/ceda/ot/ot-control/))
+- Wikipedia - [Effect Algebra](https://en.wikipedia.org/wiki/Effect_algebra)
+- Flink - [Stateful Functions](https://flink.apache.org/stateful-functions.html)
+- Akka Lightbend - [Replicated Event Sourcing / CRDT command handler modeling](https://doc.akka.io/docs/akka/current/typed/replicated-eventsourcing.html)
+- Chris Date - [Relational Theory for Computer Professionals](https://www.oreilly.com/library/view/relational-theory-for/9781449365431/author_bios.html)
 - Edgar F. Codd - [Codd's 12 rules](https://en.wikipedia.org/wiki/Codd%27s_12_rules)
 - Edgar F. Codd - [A Relational Model of Data for Large Shared Data Banks](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
 - Tigerbeetle - [LSM](https://docs.tigerbeetle.com/internals/lsm)
@@ -80,11 +91,6 @@ A database of learning material about software & computers
 - TimescaleDB - [Hierarchical continuous aggregates](https://docs.timescale.com/use-timescale/latest/continuous-aggregates/hierarchical-continuous-aggregates/)
 - Ink and switch - [Local-first software You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/)
 
-## Relational Model
-- David Barrett-Lennard - [Cedanet - Nested relational database](https://cedanet.com.au/relational-model/nested-relational-databases.php)
-- David Barrett-Lennard - [Cedanet - Unique prime cartesian factorisation of a relation](https://cedanet.com.au/relational-model/unique-prime-Cartesian-factorisation-of-a-relation.php)
-- David Barrett-Lennard - [Cedanet - Relational model applications methodology](https://cedanet.com.au/relational-model/relational-application-methodology.php)
-- Chris Date - [Relational Theory for Computer Professionals](https://www.oreilly.com/library/view/relational-theory-for/9781449365431/author_bios.html)
 
 ## Functional Programming
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
@@ -130,12 +136,6 @@ A database of learning material about software & computers
 - Daniel Westheide - [Lambda World 2018 - The Complexity Trap: Think Before You Leap](https://www.youtube.com/watch?v=OXP-sUS6ffE)
 
 
-## Operational Transformation / CRDT
-- Wikipedia - [Effect Algebra](https://en.wikipedia.org/wiki/Effect_algebra)
-- David Barrett-Lennard - [Operational Transformation](https://cedanet.com.au/ceda/ot/ot.php)
-- David Barrett-Lennard - [Operational Transform Control Algorithms](https://cedanet.com.au/ceda/ot/ot.php](https://cedanet.com.au/ceda/ot/ot-control/))
-- Flink - [Stateful Functions](https://flink.apache.org/stateful-functions.html)
-- Akka Lightbend - [Replicated Event Sourcing / CRDT command handler modeling](https://doc.akka.io/docs/akka/current/typed/replicated-eventsourcing.html)
 
 
 ## Domain Driven Design / CQRS / Event Sourcing
@@ -207,12 +207,6 @@ A database of learning material about software & computers
 - Scott Bellware - [Evented Autonomous Services](https://www.youtube.com/watch?v=qgKlu5gFsJM)
 - Jef Claes - [Evil by Design - Stateful Aggregates](https://www.youtube.com/watch?v=EmMvnB2v1GQ)
 - Martin Schimak - [Fact-Driven Journey](https://medium.com/plexiti/aggregates-and-sagas-are-process-owners-e8c8ba973da7)
-
-
-
-
-
-## Actor Model
 - Lightbend - [Akka - Replicated Event Sourcing](https://akka.io/blog/news/2020/09/09/replicated-event-sourcing-video)
 - Lightbend - [Akka - Replicated Event Sourcing - Architecture](https://www.youtube.com/watch?v=SuTPY5MxmUM)
 - Lightbend - [Akka - Replicated Event Sourcing - Modeling](https://www.youtube.com/watch?v=8PnJxTlOP6o)
@@ -220,6 +214,10 @@ A database of learning material about software & computers
 - Vaughn Vernon - [The Language of Actors](https://www.youtube.com/watch?v=gHqxPV_lT_I)
 - Vaughn Vernon - [Reactive Messaging Patterns with the Actor Model](https://www.amazon.ca/Reactive-Messaging-Patterns-Actor-Model/dp/0133846830)
 - Alexey Zimarev - [DDD, Event Sourcing and Actors](https://www.youtube.com/watch?v=58_Ehl3oETY&ab_channel=KanDDDinsky)
+
+
+
+
 
 
 ## Analytics
@@ -318,7 +316,6 @@ A database of learning material about software & computers
 - Mark Seeman - [Service Locator is an Anti-Pattern](https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
 - Architecture Patterns - [Stage Driven Event Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch02.html)
 - Alon Pe'er - [Consumer Driven Contract Testing](https://www.youtube.com/watch?v=nQ0UGY2-YYI)
-- David Barrett-Lennard - [Cedanet - Anti-pattern - SOA/Microservices](https://cedanet.com.au/antipatterns/SOA.php)
 - Lin Clark - [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - Lin Clark - [Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 - Lin Clark - [A crash course in memory management](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/)
