@@ -51,7 +51,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - Relational model applications methodology](https://cedanet.com.au/relational-model/relational-application-methodology.php)
 - David Barrett-Lennard - [Operational Transformation](https://cedanet.com.au/ceda/ot/ot.php)
 - David Barrett-Lennard - [Operational Transform Control Algorithms](https://cedanet.com.au/ceda/ot/ot.php](https://cedanet.com.au/ceda/ot/ot-control/))
-- GitHub - [Node worker_threads MMap fix](https://github.com/nodejs/node/issues/32265#issuecomment-600026192)
+- GitHub - [Node worker_threads mmap fix](https://github.com/nodejs/node/issues/32265#issuecomment-600026192)
 - Notion.so - [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
 - Notion.so - [The Great Re-shard: adding Postgres capacity (again) with zero downtime](https://www.notion.so/blog/the-great-re-shard)
 - Flink - [Stateful Functions](https://flink.apache.org/stateful-functions.html)
