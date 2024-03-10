@@ -52,6 +52,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Operational Transformation](https://cedanet.com.au/ceda/ot/ot.php)
 - David Barrett-Lennard - [Operational Transform Control Algorithms](https://cedanet.com.au/ceda/ot/ot.php](https://cedanet.com.au/ceda/ot/ot-control/))
 - David Barrett-Lennard - [Objects in two rooms example](https://cedanet.com.au/relational-model/objects-in-two-rooms.php)
+- Data-Centric Manifesto - [Data-Centric Manifesto](http://datacentricmanifesto.org/)
 - Star Citizen - [Dynamic Server Meshing & Persistent Streaming](https://robertsspaceindustries.com/comm-link/transmission/18397-Server-Meshing-And-Persistent-Streaming-Q-A)
 - GitHub - [Node worker_threads mmap fix](https://github.com/nodejs/node/issues/32265#issuecomment-600026192)
 - Notion.so - [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
