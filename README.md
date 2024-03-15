@@ -220,7 +220,8 @@ A database of learning material about software & computers
 - Vaughn Vernon - [The Language of Actors](https://www.youtube.com/watch?v=gHqxPV_lT_I)
 - Vaughn Vernon - [Reactive Messaging Patterns with the Actor Model](https://www.amazon.ca/Reactive-Messaging-Patterns-Actor-Model/dp/0133846830)
 - Alexey Zimarev - [DDD, Event Sourcing and Actors](https://www.youtube.com/watch?v=58_Ehl3oETY&ab_channel=KanDDDinsky)
-
+- Mathias Verraes - [Patterns for Decoupling in Distributed Systems: Passage of Time Event](https://verraes.net/2019/05/patterns-for-decoupling-distsys-passage-of-time-event/)
+- Luke Gee - [Representing The Passage Of Time In An Event Driven System](https://luke-gee.medium.com/representing-the-passage-of-time-in-an-event-driven-system-48fc358316e0)
 
 
 
