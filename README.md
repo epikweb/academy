@@ -41,6 +41,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - PSpace](https://cedanet.com.au/ceda/libs/cxPersistStore/PSpace/index.php)
 - David Barrett-Lennard - [Cedanet - PersistStore](https://cedanet.com.au/ceda/libs/cxPersistStore/PersistStore.php)
 - David Barrett-Lennard - [Cedanet - Working Set](https://cedanet.com.au/ceda/libs/cxOperation/WorkingSet.php)
+- David Barrett-Lennard - [Cedanet - Site Identifiers](https://cedanet.com.au/ceda/libs/cxOperation/site-identifiers.php)
 - David Barrett-Lennard - [Cedanet - Mapped values](https://cedanet.com.au/ceda/ot/mapped-values.php)
 - David Barrett-Lennard - [Cedanet - The database proposition](https://cedanet.com.au/relational-model/database-proposition.php)
 - David Barrett-Lennard - [Cedanet - The relvar proposition](https://cedanet.com.au/relational-model/relvar-proposition.php)
