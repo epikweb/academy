@@ -3,6 +3,7 @@ A database of learning material about software & computers
 
 ## Database Design
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Advanced messaging systems](https://cedanet.com.au/antipatterns/advanced-messaging-systems.php)
+- David Barrett-Lennard - [Cedanet - Anti-pattern - Object relational mapping](https://cedanet.com.au/antipatterns/ORM.php)
 - David Barrett-Lennard - [Cedanet - Logical independence](https://cedanet.com.au/relational-model/logical-independence.php)
 - David Barrett-Lennard - [Cedanet - Not materialising the persistent queue](https://cedanet.com.au/ceda/messaging/not-materialising-the-persistent-queue.php)
 - David Barrett-Lennard - [Cedanet - Producer/consumer with persistent queue](https://cedanet.com.au/ceda/messaging/persistent-queue.php)
