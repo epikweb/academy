@@ -99,8 +99,49 @@ A database of learning material about software & computers
 - Martin Kleppman - [Martin Kleppmann — Event Sourcing and Stream Processing at Scale (Netflix/LinkedIn volumes)](https://www.youtube.com/watch?v=avi-TZI9t2I&ab_channel=Domain-DrivenDesignEurope)
 - TimescaleDB - [Hierarchical continuous aggregates](https://docs.timescale.com/use-timescale/latest/continuous-aggregates/hierarchical-continuous-aggregates/)
 - Ink and switch - [Local-first software You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/)
-
-
+- Postgres - [TOAST (tuples to span multiple pages)](https://www.postgresql.org/docs/current/storage-toast.html)
+- InstaCart - [RDS Postgres Blue Green Deployments](https://tech.instacart.com/creating-a-logical-replica-from-a-snapshot-in-rds-postgres-886d9d2c7343)
+- InstaCart - [RDS Postgres Sharding](https://tech.instacart.com/scaling-at-instacart-distributing-data-across-multiple-postgres-databases-with-rails-13b1e4eba202)
+- Andrew Dunstan - [Managing Freezing in PostgreSQL](https://www.2ndquadrant.com/en/blog/managing-freezing/)
+- Aaron Brashears - [How Twitch uses PostgreSQL](https://blog.twitch.tv/en/2016/10/11/how-twitch-uses-postgresql-c34aa9e56f58/)
+- Greg Smith - [Inside the PostgreSQL Shared Buffer Cache](https://www.2ndquadrant.com/wp-content/uploads/2019/05/Inside-the-PostgreSQL-Shared-Buffer-Cache.pdf)
+- Laurenz Albe - [Optimizing PostgreSQL Autovacuum](https://www.cybertec-postgresql.com/en/postgresql-autovacuum-insert-only-tables/)
+- Laurenz Albe - [Join Strategies and Performance in PostgreSQL](https://www.cybertec-postgresql.com/en/join-strategies-and-performance-in-postgresql/)
+- Joe Wilm - [Lessons Learned From 5 Years of Scaling PostgreSQL](https://onesignal.com/blog/lessons-learned-from-5-years-of-scaling-postgresql/)
+- Keith Fiske - [Managing Transaction ID Exhaustion (Wraparound) in PostgreSQL](https://blog.crunchydata.com/blog/managing-transaction-id-wraparound-in-postgresql)
+- Hans-Jürgen Schönig - [Autovacuum Wraparound Protection in PostgreSQL](https://www.cybertec-postgresql.com/en/autovacuum-wraparound-protection-in-postgresql/)
+- Kaarel Moppel - [PostgreSQL major version upgrade without downtime](https://www.cybertec-postgresql.com/en/upgrading-postgres-major-versions-using-logical-replication/)
+- PostgreSQL - [Tuning max_connections to avoid thrashing](https://wiki.postgresql.org/wiki/Number_Of_Database_Connections)
+- Frits Hoogland - [How to enable SSL for pgbouncer](https://dev.to/yugabyte/how-to-enable-ssl-for-postgres-connections-5321)
+- Quinn Weaver - [Change autovacuum_freeze_max_age without a restart](https://hacksoclock.blogspot.com/2017/03/change-autovacuumfreezemaxage-without.html)
+- Andrew Dunstan - [Partitioning a large table without a long running lock](https://www.2ndquadrant.com/en/blog/partitioning-a-large-table-without-a-long-running-lock/)
+- Percona - [Find the WAL Count Between Two Segments in PostgreSQL](https://www.percona.com/blog/find-the-wal-count-between-two-segments-in-postgresql)
+- CloudFlare - [Durable Objects](https://developers.cloudflare.com/workers/learning/using-durable-objects)
+- Wikipedia - [Anycast IP Protocol](https://en.wikipedia.org/wiki/Anycast)
+- AWS - [Global Accelerator](https://aws.amazon.com/global-accelerator/)
+- Hadean - [Rewriting the laws of cloud computing (removing middleware)](https://hadean.com/blog/rewriting-the-laws-of-cloud-computing-with-the-hadean-platform/)
+- Hadean - [HadeanOS & Aether Engine](https://resources.hadean.com/story/the-hadean-architecture-whitepaper/page/1)
+- Hadean - [Simulate](https://resources.hadean.com/story/hadean-simulate/page/1)
+- Hadean - [Muxer](https://hadean.com/wp-content/uploads/2022/01/Product-Datasheet-Muxer.pdf)
+- Nick Fishman - [Node.js HTTP requests with gzip/deflate compression](https://nickfishman.com/post/49533681471/nodejs-http-requests-with-gzip-deflate-compression)
+- StormIT - [Amazon Route 53: Health Checks and DNS Failover](https://www.youtube.com/watch?v=Kxpl0ICzQV0)
+- Endre Synnes - [AWS Route53 - Domain and SSL Certificate using Hosted Zones and ACM](https://aws.plainenglish.io/hot-standby-load-balancing-in-aws-511b3542ec61)
+- David Fowler - [Cloud Data Management](https://dataschool.com/data-governance/)
+- DataBricks - [Lambda Architecture](https://databricks.com/glossary/lambda-architecture)
+- Uber - [Kappa/Lambda Architecture](https://eng.uber.com/kappa-architecture-data-stream-processing/)
+- Uber - [DBEvents Ingestion Framework](https://eng.uber.com/dbevents-ingestion-framework/)
+- Aljoscha Krettek - [Stream Processing with Flink - Session Windowing](https://www.ververica.com/blog/session-windowing-in-flink)
+- Spark by Examples - [Spark by Examples](https://sparkbyexamples.com/)
+- DevelopPaper - [Lambda/Kappa+ Architecture ](https://developpaper.com/how-does-big-data-architecture-integrate-streaming-and-batching/)
+- Roshan Naik - [Moving from Lambda and Kappa Architectures to Kappa+ at Uber](https://www.youtube.com/watch?v=ExU7fJFw4Bg)
+- Google - [The Dataflow Model - Out of Order Data Processing](https://research.google/pubs/pub43864/)
+- Rockset - [Aggregator Leaf Tailer Architecture](https://rockset.com/blog/aggregator-leaf-tailer-an-architecture-for-live-analytics-on-event-streams/)
+- Martin Kleppman - [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf)
+- Jesse Anderson - [Managing Real time Data Teams](https://www.youtube.com/watch?t=102&v=8_yMJ9_F7aY&feature=youtu.be&ab_channel=FlinkForward)
+- Jesse Anderson - [Why I Recommend My Clients NOT Use KSQL and Kafka Streams](https://www.jesse-anderson.com/2019/10/why-i-recommend-my-clients-not-use-ksql-and-kafka-streams/)
+- Flink - [Stream Operators](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/datastream/operators/overview/)
+- Aris Koliopoulos - [Drivetribe’s Kappa Architecture With Apache Flink](https://www.youtube.com/watch?v=0cJ565r2FVI)
+  
 ## Functional Programming
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
 - Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=wmrbVjjBRXM)
@@ -231,22 +272,7 @@ A database of learning material about software & computers
 
 
 
-## Analytics
-- David Fowler - [Cloud Data Management](https://dataschool.com/data-governance/)
-- DataBricks - [Lambda Architecture](https://databricks.com/glossary/lambda-architecture)
-- Uber - [Kappa/Lambda Architecture](https://eng.uber.com/kappa-architecture-data-stream-processing/)
-- Uber - [DBEvents Ingestion Framework](https://eng.uber.com/dbevents-ingestion-framework/)
-- Aljoscha Krettek - [Stream Processing with Flink - Session Windowing](https://www.ververica.com/blog/session-windowing-in-flink)
-- Spark by Examples - [Spark by Examples](https://sparkbyexamples.com/)
-- DevelopPaper - [Lambda/Kappa+ Architecture ](https://developpaper.com/how-does-big-data-architecture-integrate-streaming-and-batching/)
-- Roshan Naik - [Moving from Lambda and Kappa Architectures to Kappa+ at Uber](https://www.youtube.com/watch?v=ExU7fJFw4Bg)
-- Google - [The Dataflow Model - Out of Order Data Processing](https://research.google/pubs/pub43864/)
-- Rockset - [Aggregator Leaf Tailer Architecture](https://rockset.com/blog/aggregator-leaf-tailer-an-architecture-for-live-analytics-on-event-streams/)
-- Martin Kleppman - [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf)
-- Jesse Anderson - [Managing Real time Data Teams](https://www.youtube.com/watch?t=102&v=8_yMJ9_F7aY&feature=youtu.be&ab_channel=FlinkForward)
-- Jesse Anderson - [Why I Recommend My Clients NOT Use KSQL and Kafka Streams](https://www.jesse-anderson.com/2019/10/why-i-recommend-my-clients-not-use-ksql-and-kafka-streams/)
-- Flink - [Stream Operators](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/datastream/operators/overview/)
-- Aris Koliopoulos - [Drivetribe’s Kappa Architecture With Apache Flink](https://www.youtube.com/watch?v=0cJ565r2FVI)
+
 
 ## Artificial Intelligence
 - Debby Nirwan - [Designing AI Agents’ Behaviors with Behavior Trees](https://towardsdatascience.com/designing-ai-agents-behaviors-with-behavior-trees-b28aa1c3cf8a)
@@ -260,17 +286,6 @@ A database of learning material about software & computers
 - Eric Elliott - [SudoLang: A Powerful Pseudocode Programming Language for LLMs](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b)
 
 
-## Edge Compute
-- CloudFlare - [Durable Objects](https://developers.cloudflare.com/workers/learning/using-durable-objects)
-- Wikipedia - [Anycast IP Protocol](https://en.wikipedia.org/wiki/Anycast)
-- AWS - [Global Accelerator](https://aws.amazon.com/global-accelerator/)
-- Hadean - [Rewriting the laws of cloud computing (removing middleware)](https://hadean.com/blog/rewriting-the-laws-of-cloud-computing-with-the-hadean-platform/)
-- Hadean - [HadeanOS & Aether Engine](https://resources.hadean.com/story/the-hadean-architecture-whitepaper/page/1)
-- Hadean - [Simulate](https://resources.hadean.com/story/hadean-simulate/page/1)
-- Hadean - [Muxer](https://hadean.com/wp-content/uploads/2022/01/Product-Datasheet-Muxer.pdf)
-- Nick Fishman - [Node.js HTTP requests with gzip/deflate compression](https://nickfishman.com/post/49533681471/nodejs-http-requests-with-gzip-deflate-compression)
-- StormIT - [Amazon Route 53: Health Checks and DNS Failover](https://www.youtube.com/watch?v=Kxpl0ICzQV0)
-- Endre Synnes - [AWS Route53 - Domain and SSL Certificate using Hosted Zones and ACM](https://aws.plainenglish.io/hot-standby-load-balancing-in-aws-511b3542ec61)
 
 ## Infrastructure
 - CloudPosse - [Geodesic](https://github.com/cloudposse/geodesic)
@@ -281,32 +296,10 @@ A database of learning material about software & computers
 - AWS - [Working with multicast](https://docs.aws.amazon.com/vpc/latest/tgw/working-with-multicast.html)
 
 
-## Postgres
-- InstaCart - [RDS Postgres Blue Green Deployments](https://tech.instacart.com/creating-a-logical-replica-from-a-snapshot-in-rds-postgres-886d9d2c7343)
-- InstaCart - [RDS Postgres Sharding](https://tech.instacart.com/scaling-at-instacart-distributing-data-across-multiple-postgres-databases-with-rails-13b1e4eba202)
-- Andrew Dunstan - [Managing Freezing in PostgreSQL](https://www.2ndquadrant.com/en/blog/managing-freezing/)
-- Aaron Brashears - [How Twitch uses PostgreSQL](https://blog.twitch.tv/en/2016/10/11/how-twitch-uses-postgresql-c34aa9e56f58/)
-- Greg Smith - [Inside the PostgreSQL Shared Buffer Cache](https://www.2ndquadrant.com/wp-content/uploads/2019/05/Inside-the-PostgreSQL-Shared-Buffer-Cache.pdf)
-- Laurenz Albe - [Optimizing PostgreSQL Autovacuum](https://www.cybertec-postgresql.com/en/postgresql-autovacuum-insert-only-tables/)
-- Laurenz Albe - [Join Strategies and Performance in PostgreSQL](https://www.cybertec-postgresql.com/en/join-strategies-and-performance-in-postgresql/)
-- Joe Wilm - [Lessons Learned From 5 Years of Scaling PostgreSQL](https://onesignal.com/blog/lessons-learned-from-5-years-of-scaling-postgresql/)
-- Keith Fiske - [Managing Transaction ID Exhaustion (Wraparound) in PostgreSQL](https://blog.crunchydata.com/blog/managing-transaction-id-wraparound-in-postgresql)
-- Hans-Jürgen Schönig - [Autovacuum Wraparound Protection in PostgreSQL](https://www.cybertec-postgresql.com/en/autovacuum-wraparound-protection-in-postgresql/)
-- Kaarel Moppel - [PostgreSQL major version upgrade without downtime](https://www.cybertec-postgresql.com/en/upgrading-postgres-major-versions-using-logical-replication/)
-- PostgreSQL - [Tuning max_connections to avoid thrashing](https://wiki.postgresql.org/wiki/Number_Of_Database_Connections)
-- Frits Hoogland - [How to enable SSL for pgbouncer](https://dev.to/yugabyte/how-to-enable-ssl-for-postgres-connections-5321)
-- Quinn Weaver - [Change autovacuum_freeze_max_age without a restart](https://hacksoclock.blogspot.com/2017/03/change-autovacuumfreezemaxage-without.html)
-- Andrew Dunstan - [Partitioning a large table without a long running lock](https://www.2ndquadrant.com/en/blog/partitioning-a-large-table-without-a-long-running-lock/)
-- Percona - [Find the WAL Count Between Two Segments in PostgreSQL](https://www.percona.com/blog/find-the-wal-count-between-two-segments-in-postgresql)
-
 ## Graphics
 - Xem - [WebGL Tutorial - Part 1](https://xem.github.io/articles/webgl-guide.html)
-- Xem - [WebGL Tutorial - Part 2](https://xem.github.io/articles/webgl-guide-part-2.html)
+- Xem - [WebGL Tutorial - Part 2](https://xem.github.io/articles/webgl-guide-part-2.ht
 
-## Hardware
-- XDA - [PCI Express 5 (PCIe 5.0)](https://www.xda-developers.com/pcie-5/)
-- StreamGeeks - [What is Bandwidth?](https://www.youtube.com/watch?v=N4rWBZeAp4s)
-- Personal rig - [WD 850X 1TB Read/Write performance](https://i.gyazo.com/ff4a3dd81adf44132f7538a07c6b2abb.png)
 
 ## Miscellaneous
 - Martin Fowler - [Patterns of Enterprise Application Architecture](https://www.amazon.ca/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?crid=2Z4PNNZS8S5G2&dchild=1&keywords=patterns+of+enterprise+application+architecture&qid=1624062774&s=books&sprefix=patterns+of+enter%2Cstripbooks%2C153&sr=1-1)
@@ -337,3 +330,6 @@ A database of learning material about software & computers
 - Mozilla - [JavaScript Structured Clone (multithreading woes)](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone)
 - ASCCI Conversion Table - [ASCII Conversion Chart](https://web.alfredstate.edu/faculty/weimandn/miscellaneous/ascii/ascii_index.html)
 - Vladimir Khorikov - [Styles of unit testing](https://enterprisecraftsmanship.com/posts/styles-of-unit-testing/)
+- XDA - [PCI Express 5 (PCIe 5.0)](https://www.xda-developers.com/pcie-5/)
+- StreamGeeks - [What is Bandwidth?](https://www.youtube.com/watch?v=N4rWBZeAp4s)
+- Personal rig - [WD 850X 1TB Read/Write performance](https://i.gyazo.com/ff4a3dd81adf44132f7538a07c6b2abb.png)
