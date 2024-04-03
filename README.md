@@ -141,6 +141,7 @@ A database of learning material about software & computers
 - Jesse Anderson - [Why I Recommend My Clients NOT Use KSQL and Kafka Streams](https://www.jesse-anderson.com/2019/10/why-i-recommend-my-clients-not-use-ksql-and-kafka-streams/)
 - Flink - [Stream Operators](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/datastream/operators/overview/)
 - Aris Koliopoulos - [Drivetribe’s Kappa Architecture With Apache Flink](https://www.youtube.com/watch?v=0cJ565r2FVI)
+- AWS - [The Unique Architecture behind Amazon Games’ Seamless MMO New World](https://aws.amazon.com/blogs/gametech/the-unique-architecture-behind-amazon-games-seamless-mmo-new-world/)
   
 ## Functional Programming
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
