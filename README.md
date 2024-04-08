@@ -142,6 +142,8 @@ A database of learning material about software & computers
 - Flink - [Stream Operators](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/datastream/operators/overview/)
 - Aris Koliopoulos - [Drivetribe’s Kappa Architecture With Apache Flink](https://www.youtube.com/watch?v=0cJ565r2FVI)
 - AWS - [The Unique Architecture behind Amazon Games’ Seamless MMO New World](https://aws.amazon.com/blogs/gametech/the-unique-architecture-behind-amazon-games-seamless-mmo-new-world/)
+- AWS - [What is a Data Center?](https://aws.amazon.com/what-is/data-center/)
+- AWS - [Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)
   
 ## Functional Programming
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
