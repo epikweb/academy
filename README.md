@@ -3,9 +3,9 @@ A database of learning material about software & computers
 
 ## Database Design / Systems programming
 - Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=vKrCdO5NgrA)
+- David Barrett-Lennard - [Cedanet - The Data-Centric Principle](https://cedanet.com.au/ceda/data-centric-principle/data-centric-principle.php)
 - David Barrett-Lennard - [Cedanet - Logical independence](https://cedanet.com.au/relational-model/logical-independence.php)
 - David Barrett-Lennard - [Cedanet - The lattice of database states](https://cedanet.com.au/ceda/ot/lattice/)
-- David Barrett-Lennard - [Cedanet - The Data-Centric Principle](https://cedanet.com.au/ceda/data-centric-principle/data-centric-principle.php)
 - David Barrett-Lennard - [Cedanet - Anti-patterns](https://cedanet.com.au/antipatterns/)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Advanced messaging systems](https://cedanet.com.au/antipatterns/advanced-messaging-systems.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Object relational mapping](https://cedanet.com.au/antipatterns/ORM.php)
