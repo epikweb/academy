@@ -301,7 +301,8 @@ A database of learning material about software & computers
 
 ## Graphics
 - Xem - [WebGL Tutorial - Part 1](https://xem.github.io/articles/webgl-guide.html)
-- Xem - [WebGL Tutorial - Part 2](https://xem.github.io/articles/webgl-guide-part-2.ht
+- Xem - [WebGL Tutorial - Part 2](https://xem.github.io/articles/webgl-guide-part-2.html)
+- Luka Jacobowitz - [Building a Tagless Final DSL for WebGL in Scala](https://www.youtube.com/watch?v=1h11efA4k8E)
 
 
 ## Miscellaneous
