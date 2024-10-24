@@ -2,7 +2,6 @@
 A database of learning material about software & computers
 
 ## Database Design / Systems programming
-- Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=wmrbVjjBRXM)
 - David Barrett-Lennard - [Cedanet - The Data-Centric Principle](https://cedanet.com.au/ceda/data-centric-principle/data-centric-principle.php)
 - David Barrett-Lennard - [Cedanet - Logical independence](https://cedanet.com.au/relational-model/logical-independence.php)
 - David Barrett-Lennard - [Cedanet - The lattice of database states](https://cedanet.com.au/ceda/ot/lattice/)
@@ -58,7 +57,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet -Objects in two rooms example](https://cedanet.com.au/relational-model/objects-in-two-rooms.php)
 - David Barrett-Lennard - [Cedanet - Which variables to materialise?](https://cedanet.com.au/ceda/constraints/which-variables-to-materialise.php)
 - Data-Centric Manifesto - [Data-Centric Manifesto](http://datacentricmanifesto.org/)
-- Star Citizen - [Dynamic Server Meshing & Persistent Streaming](https://robertsspaceindustries.com/comm-link/transmission/18397-Server-Meshing-And-Persistent-Streaming-Q-A)
+- Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=wmrbVjjBRXM)
 - GitHub - [Node worker_threads mmap fix](https://github.com/nodejs/node/issues/32265#issuecomment-600026192)
 - Notion.so - [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
 - Notion.so - [The Great Re-shard: adding Postgres capacity (again) with zero downtime](https://www.notion.so/blog/the-great-re-shard)
@@ -146,6 +145,7 @@ A database of learning material about software & computers
 - AWS - [What is a Data Center?](https://aws.amazon.com/what-is/data-center/)
 - AWS - [Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)
 - Ithare - [Gradual OLTP DB Development – from Zero to 10 Billion Transactions per Year and Beyond](http://ithare.com/gradual-oltp-db-development-from-zero-to-10-billion-transactions-per-year-and-beyond/)
+- Star Citizen - [Dynamic Server Meshing & Persistent Streaming](https://robertsspaceindustries.com/comm-link/transmission/18397-Server-Meshing-And-Persistent-Streaming-Q-A)
 
 ## Functional Programming
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
