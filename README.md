@@ -179,6 +179,7 @@ A database of learning material about software & computers
 - Jakub Kozłowski - [Algebraic effects and handlers in the Effekt language](https://www.youtube.com/watch?v=vnrUIJMxZJ0&ab_channel=JakubKoz%C5%82owski)
 - Maciej Piróg - [Effect Handlers: A New Approach to Computational Effects - Lambda Days 2020](https://www.youtube.com/watch?v=6lv_E-CjGzg)
 - Sergey Ignatchenko - [Deterministic Components for Interactive Distributed Systems – with Transcript](http://ithare.com/deterministic-components-for-interactive-distributed-systems-with-transcript/2/)
+- Sergey Ignatchenko - [“Multi-Coring” and “Non-Blocking“ instead of “Multi-Threading” – with a Script](http://ithare.com/multi-coring-and-non-blocking-instead-of-multi-threading-with-a-script/3/)
 - Sergey Ignatchenko - [Facebook/Uber/Netflix 500B single box](http://ithare.com/multi-coring-and-non-blocking-instead-of-multi-threading-with-a-script/3/)
 - Sergey Ignatchenko - [CppCon 2017: Sergey Ignatchenko “Ways to Handle Non-blocking Returns in Message-passing Programs...”](https://www.youtube.com/watch?v=6lXUrvlMXNU)
 - TrinityCore - [OO Callback style CPS (Take 3 of above)](https://github.com/TrinityCore/TrinityCore/blob/master/src/server/game/Scripting/ScriptMgr.cpp#L1946)
