@@ -137,6 +137,7 @@ A database of learning material about software & computers
 - Google - [The Dataflow Model - Out of Order Data Processing](https://research.google/pubs/pub43864/)
 - Rockset - [Aggregator Leaf Tailer Architecture](https://rockset.com/blog/aggregator-leaf-tailer-an-architecture-for-live-analytics-on-event-streams/)
 - Martin Kleppman - [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf)
+- Jesse Anderson - [Learn MapReduce with Playing Cards](https://www.youtube.com/watch?v=bcjSe0xCHbE)
 - Jesse Anderson - [Managing Real time Data Teams](https://www.youtube.com/watch?t=102&v=8_yMJ9_F7aY&feature=youtu.be&ab_channel=FlinkForward)
 - Jesse Anderson - [Why I Recommend My Clients NOT Use KSQL and Kafka Streams](https://www.jesse-anderson.com/2019/10/why-i-recommend-my-clients-not-use-ksql-and-kafka-streams/)
 - Flink - [Stream Operators](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/datastream/operators/overview/)
