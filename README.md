@@ -148,6 +148,7 @@ A database of learning material about software & computers
 - AWS - [Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)
 - Ithare - [Gradual OLTP DB Development – from Zero to 10 Billion Transactions per Year and Beyond](http://ithare.com/gradual-oltp-db-development-from-zero-to-10-billion-transactions-per-year-and-beyond/)
 - Star Citizen - [Dynamic Server Meshing & Persistent Streaming](https://robertsspaceindustries.com/comm-link/transmission/18397-Server-Meshing-And-Persistent-Streaming-Q-A)
+- Brad Touesnard - [Create Your Own SSL Certificate Authority for Local HTTPS Development](https://deliciousbrains.com/ssl-certificate-authority-for-local-https-development/)
 
 ## Functional Programming
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
