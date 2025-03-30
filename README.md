@@ -149,7 +149,8 @@ A database of learning material about software & computers
 - Ithare - [Gradual OLTP DB Development – from Zero to 10 Billion Transactions per Year and Beyond](http://ithare.com/gradual-oltp-db-development-from-zero-to-10-billion-transactions-per-year-and-beyond/)
 - Star Citizen - [Dynamic Server Meshing & Persistent Streaming](https://robertsspaceindustries.com/comm-link/transmission/18397-Server-Meshing-And-Persistent-Streaming-Q-A)
 - Brad Touesnard - [Create Your Own SSL Certificate Authority for Local HTTPS Development](https://deliciousbrains.com/ssl-certificate-authority-for-local-https-development/)
-- Johnathan Blow - [Jonathan Blow on how an operating system should work](https://www.youtube.com/watch?v=k0uE_chSnV8)
+- Jonathan Blow - [Jonathan Blow on how an operating system should work](https://www.youtube.com/watch?v=k0uE_chSnV8)
+- Jonathan Blow - [Q&A, Implicit Context](https://www.youtube.com/watch?v=0KkW_Zo_pDc)
 
 ## Functional Programming
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
