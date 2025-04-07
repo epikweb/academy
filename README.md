@@ -3,9 +3,9 @@ A database of learning material about software & computers
 
 ## Database Design / Systems programming
 - David Barrett-Lennard - [Cedanet - The Data-Centric Principle](https://cedanet.com.au/ceda/data-centric-principle/data-centric-principle.php)
-- David Barrett-Lennard - [Cedanet - Logical independence](https://cedanet.com.au/relational-model/logical-independence.php)
 - David Barrett-Lennard - [Cedanet - The lattice of database states](https://cedanet.com.au/ceda/ot/lattice/)
 - David Barrett-Lennard - [Cedanet - Anti-patterns](https://cedanet.com.au/antipatterns/)
+- David Barrett-Lennard - [Cedanet - Anti-pattern - using OO to record facts](https://cedanet.com.au/antipatterns/using-OO-to-record-facts.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Advanced messaging systems](https://cedanet.com.au/antipatterns/advanced-messaging-systems.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Object relational mapping](https://cedanet.com.au/antipatterns/ORM.php)
 - David Barrett-Lennard - [Cedanet - Anti-pattern - Excessive frameworks](https://cedanet.com.au/antipatterns/excessive-frameworks.php)
@@ -23,6 +23,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet - Anti-pattern - SOA/Microservices](https://cedanet.com.au/antipatterns/SOA.php)
 - David Barrett-Lennard - [Cedanet - Not materialising the persistent queue](https://cedanet.com.au/ceda/messaging/not-materialising-the-persistent-queue.php)
 - David Barrett-Lennard - [Cedanet - Producer/consumer with persistent queue](https://cedanet.com.au/ceda/messaging/persistent-queue.php)
+- David Barrett-Lennard - [Cedanet - Logical independence](https://cedanet.com.au/relational-model/logical-independence.php)
 - David Barrett-Lennard - [Cedanet - Messaging done right](https://cedanet.com.au/ceda/messaging/messaging.php)
 - David Barrett-Lennard - [Cedanet - Dependency Graph System (DGS)](https://cedanet.com.au/ceda/libs/cxObject/dgs/)
 - David Barrett-Lennard - [Cedanet - Persistent object trees](https://cedanet.com.au/ceda/libs/cxPersistStore/persistent-object-trees.php)
@@ -56,6 +57,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet -Operational Transform Control Algorithms](https://cedanet.com.au/ceda/ot/ot.php](https://cedanet.com.au/ceda/ot/ot-control/))
 - David Barrett-Lennard - [Cedanet -Objects in two rooms example](https://cedanet.com.au/relational-model/objects-in-two-rooms.php)
 - David Barrett-Lennard - [Cedanet - Which variables to materialise?](https://cedanet.com.au/ceda/constraints/which-variables-to-materialise.php)
+- Tyler Cloutier - [SpaceTimeDB - Databases are the endgame for data-oriented design](https://www.youtube.com/watch?v=6m5f6Whwf_s)
 - Data-Centric Manifesto - [Data-Centric Manifesto](http://datacentricmanifesto.org/)
 - Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=wmrbVjjBRXM)
 - GitHub - [Node worker_threads mmap fix](https://github.com/nodejs/node/issues/32265#issuecomment-600026192)
