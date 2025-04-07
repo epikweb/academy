@@ -151,6 +151,8 @@ A database of learning material about software & computers
 - Brad Touesnard - [Create Your Own SSL Certificate Authority for Local HTTPS Development](https://deliciousbrains.com/ssl-certificate-authority-for-local-https-development/)
 - Jonathan Blow - [Jonathan Blow on how an operating system should work](https://www.youtube.com/watch?v=k0uE_chSnV8)
 - Jonathan Blow - [Q&A, Implicit Context](https://www.youtube.com/watch?v=0KkW_Zo_pDc)
+- SpaceTimeDB - [Databases are the endgame for data-oriented design](https://spacetimedb.com/blog/databases-and-data-oriented-design)
+- SpaceTimeDB - [Introducing SpacetimeDB 1.0](https://spacetimedb.com/blog/introducing-spacetimedb-1-0)
 
 ## Functional Programming
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
