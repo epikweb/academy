@@ -155,6 +155,7 @@ A database of learning material about software & computers
 - Jonathan Blow - [Q&A, Implicit Context](https://www.youtube.com/watch?v=0KkW_Zo_pDc)
 - SpaceTimeDB - [Databases are the endgame for data-oriented design](https://spacetimedb.com/blog/databases-and-data-oriented-design)
 - SpaceTimeDB - [Introducing SpacetimeDB 1.0](https://spacetimedb.com/blog/introducing-spacetimedb-1-0)
+- [Ismael Celis - Give it time](https://ismaelcelis.com/posts/2025-04-give-it-time/)
 
 ## Functional Programming
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
