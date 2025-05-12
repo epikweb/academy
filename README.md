@@ -156,7 +156,7 @@ A database of learning material about software & computers
 - SpaceTimeDB - [Databases are the endgame for data-oriented design](https://spacetimedb.com/blog/databases-and-data-oriented-design)
 - SpaceTimeDB - [Introducing SpacetimeDB 1.0](https://spacetimedb.com/blog/introducing-spacetimedb-1-0)
 - [Ismael Celis - Give it time](https://ismaelcelis.com/posts/2025-04-give-it-time/)
-- [Guaranteeing in-partition order for partitioned-writing in Apache Spark](https://www.gresearch.com/news/guaranteeing-in-partition-order-for-partitioned-writing-in-apache-spark/)
+- [GResearch - Guaranteeing in-partition order for partitioned-writing in Apache Spark](https://www.gresearch.com/news/guaranteeing-in-partition-order-for-partitioned-writing-in-apache-spark/)
 
 ## Functional Programming
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
