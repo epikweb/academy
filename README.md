@@ -157,6 +157,8 @@ A database of learning material about software & computers
 - SpaceTimeDB - [Introducing SpacetimeDB 1.0](https://spacetimedb.com/blog/introducing-spacetimedb-1-0)
 - Ismael Celis - [Give it time](https://ismaelcelis.com/posts/2025-04-give-it-time/)
 - GResearch - [Guaranteeing in-partition order for partitioned-writing in Apache Spark](https://www.gresearch.com/news/guaranteeing-in-partition-order-for-partitioned-writing-in-apache-spark/)
+- Tamás Sallai - [How to transfer binary data efficiently across worker threads in NodeJs](https://advancedweb.hu/how-to-transfer-binary-data-efficiently-across-worker-threads-in-nodejs/)
+
 
 ## Functional Programming
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
