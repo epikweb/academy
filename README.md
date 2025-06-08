@@ -1,7 +1,7 @@
 # 📚 Academy
 A database of learning material about software & computers
 
-## Database Design / Systems programming
+## Systems programming
 - David Barrett-Lennard - [Cedanet - The Data-Centric Principle](https://cedanet.com.au/ceda/data-centric-principle/data-centric-principle.php)
 - David Barrett-Lennard - [Cedanet - The lattice of database states](https://cedanet.com.au/ceda/ot/lattice/)
 - David Barrett-Lennard - [Cedanet - Anti-patterns](https://cedanet.com.au/antipatterns/)
@@ -158,6 +158,8 @@ A database of learning material about software & computers
 - Ismael Celis - [Give it time](https://ismaelcelis.com/posts/2025-04-give-it-time/)
 - GResearch - [Guaranteeing in-partition order for partitioned-writing in Apache Spark](https://www.gresearch.com/news/guaranteeing-in-partition-order-for-partitioned-writing-in-apache-spark/)
 - Tamás Sallai - [How to transfer binary data efficiently across worker threads in NodeJs](https://advancedweb.hu/how-to-transfer-binary-data-efficiently-across-worker-threads-in-nodejs/)
+- Casey Muratori - [The Thirty Million Line Problem](https://www.youtube.com/watch?v=kZRE7HIO3vk)
+- Jonathan Blow - [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko)
 
 
 ## Functional Programming
