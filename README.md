@@ -160,6 +160,7 @@ A database of learning material about software & computers
 - Tamás Sallai - [How to transfer binary data efficiently across worker threads in NodeJs](https://advancedweb.hu/how-to-transfer-binary-data-efficiently-across-worker-threads-in-nodejs/)
 - Casey Muratori - [The Thirty Million Line Problem](https://www.youtube.com/watch?v=kZRE7HIO3vk)
 - Jonathan Blow - [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko)
+- Thomas F McGeehan V - [The Modern Data Stack Is a Dumpster Fire](https://medium.com/@mcgeehan/the-modern-data-stack-is-a-dumpster-fire-b1aa81316d94)
 
 
 ## Functional Programming
