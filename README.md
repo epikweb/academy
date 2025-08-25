@@ -205,6 +205,7 @@ A database of learning material about software & computers
 - UnisonLang - [UnisonLang](https://www.unison-lang.org/docs/the-big-idea/)
 - Daniel Westheide - [Lambda World 2018 - The Complexity Trap: Think Before You Leap](https://www.youtube.com/watch?v=OXP-sUS6ffE)
 - Wikipedia - [Effect Algebra](https://en.wikipedia.org/wiki/Effect_algebra)
+- John A De Goes - [A Glossary of Functional Programming](https://degoes.net/articles/fp-glossary)
 
 
 
