@@ -161,6 +161,7 @@ A database of learning material about software & computers
 - Casey Muratori - [The Thirty Million Line Problem](https://www.youtube.com/watch?v=kZRE7HIO3vk)
 - Jonathan Blow - [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko)
 - Thomas F McGeehan V - [The Modern Data Stack Is a Dumpster Fire](https://medium.com/@mcgeehan/the-modern-data-stack-is-a-dumpster-fire-b1aa81316d94)
+- Martin Thompson - [Hot Deploying Low-Latency Services for 24/7 Operation](https://www.youtube.com/watch?v=_KvFapRkR9I)
 
 
 ## Functional Programming
