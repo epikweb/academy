@@ -290,10 +290,7 @@ A database of learning material about software & computers
 - Mathias Verraes - [Patterns for Decoupling in Distributed Systems: Passage of Time Event](https://verraes.net/2019/05/patterns-for-decoupling-distsys-passage-of-time-event/)
 - Luke Gee - [Representing The Passage Of Time In An Event Driven System](https://luke-gee.medium.com/representing-the-passage-of-time-in-an-event-driven-system-48fc358316e0)
 - Mikhail Shilkov - [Event Sourcing and IO Complexity](https://mikhail.io/2016/11/event-sourcing-and-io-complexity/)
-
-
-
-
+- Adam Dymitruk & Martin Dilgen - [What vs How](https://youtu.be/sKS_WKHvy9w?si=QhJ-qI6qRgAPcd2p&t=2639)
 
 
 
