@@ -57,7 +57,7 @@ A database of learning material about software & computers
 - David Barrett-Lennard - [Cedanet -Operational Transform Control Algorithms](https://cedanet.com.au/ceda/ot/ot.php](https://cedanet.com.au/ceda/ot/ot-control/))
 - David Barrett-Lennard - [Cedanet -Objects in two rooms example](https://cedanet.com.au/relational-model/objects-in-two-rooms.php)
 - David Barrett-Lennard - [Cedanet - Which variables to materialise?](https://cedanet.com.au/ceda/constraints/which-variables-to-materialise.php)
-- David Barrett-Lenndard - [Cedanet - Bank transfers without distributed transactions](https://cedanet.com.au/ceda/messaging/bank-transfers-without-distributed-transactions.php)
+- David Barrett-Lennard - [Cedanet - Bank transfers without distributed transactions](https://cedanet.com.au/ceda/messaging/bank-transfers-without-distributed-transactions.php)
 - Tyler Cloutier - [SpaceTimeDB - Databases are the endgame for data-oriented design](https://www.youtube.com/watch?v=6m5f6Whwf_s)
 - Data-Centric Manifesto - [Data-Centric Manifesto](http://datacentricmanifesto.org/)
 - Debasish Ghosh - [Managing Effects in Domain Models - The Algebraic Way](https://www.youtube.com/watch?v=wmrbVjjBRXM)
