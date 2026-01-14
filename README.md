@@ -163,6 +163,7 @@ A database of learning material about software & computers
 - Thomas F McGeehan V - [The Modern Data Stack Is a Dumpster Fire](https://medium.com/@mcgeehan/the-modern-data-stack-is-a-dumpster-fire-b1aa81316d94)
 - Martin Thompson - [Hot Deploying Low-Latency Services for 24/7 Operation](https://www.youtube.com/watch?v=_KvFapRkR9I)
 - Florian Neukart - [The Geometry and Flow of Informational Time](https://www.mdpi.com/2218-1997/12/1/2)
+- Wikipedia - [Bulk Synchronous Parallel](https://en.wikipedia.org/wiki/Bulk_synchronous_parallel)
 
 
 ## Functional Programming
