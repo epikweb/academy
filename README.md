@@ -165,7 +165,8 @@ A database of learning material about software & computers
 - Martin Thompson - [Hot Deploying Low-Latency Services for 24/7 Operation](https://www.youtube.com/watch?v=_KvFapRkR9I)
 - Florian Neukart - [The Geometry and Flow of Informational Time](https://www.mdpi.com/2218-1997/12/1/2)
 - Wikipedia - [Bulk Synchronous Parallel](https://en.wikipedia.org/wiki/Bulk_synchronous_parallel)
-
+- kdb - [Database: tables in the filesystem¶](https://code.kx.com/q/database/)
+- kdb - [Partitioning tables across directories](https://code.kx.com/q/database/](https://code.kx.com/q/kb/partition/)
 
 ## Functional Programming
 - Debasish Ghosh - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
