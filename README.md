@@ -309,6 +309,7 @@ A database of learning material about software & computers
 - AI and Games - [The AI of Horizon Zero Dawn | Part 2: Metal Militia | AI and Games](https://www.youtube.com/watch?v=9RRjM1yNvy4)
 - Eric Elliott - [SudoLang: A Powerful Pseudocode Programming Language for LLMs](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b)
 - Dr. Cody Watson - [AI and Gaming: A Conversation with Riot Games Researcher Dr. Cody Watson](https://www.youtube.com/watch?v=CpYl4MSM4yU)
+- Hongyu Zhao, Siyu Zhou, Haolin Yang, Zengyi Qin, Tianyi Zhou - [Neuro-Symbolic Synergy for Interactive World Modeling](https://arxiv.org/pdf/2602.10480)
 
 
 
